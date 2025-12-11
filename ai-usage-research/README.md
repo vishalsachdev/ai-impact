@@ -1,10 +1,15 @@
+**[← AI Impact Research](../)**
+
+---
+
 # AI Platform Usage Research: Frontier Labs Analysis (2025)
 
 ## Overview
 
 This repository contains comprehensive research on how people use AI platforms from frontier labs (Anthropic, OpenAI, Google, Microsoft). The research is organized around six key research questions, each with detailed data, analysis, and sources.
 
-**Companion Research**: See [AI Capabilities Research](../ai-capabilities-research/) for what AI can do (benchmarks, trajectories, educational implications).
+> **Related Track**: Looking for what AI can do (benchmarks, capabilities, trajectories)?
+> See **[AI Capabilities Research →](../ai-capabilities-research/)**
 
 **Purpose**: Academic paper/analysis
 **Time Period**: Primarily 2025 data (January - December)

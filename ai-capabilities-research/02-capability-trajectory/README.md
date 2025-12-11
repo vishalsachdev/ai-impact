@@ -1,3 +1,7 @@
+**[← AI Impact Research](../../)** · **[AI Capabilities Research](../)**
+
+---
+
 # Capability Trajectory & Economic Impact
 
 ## Research Question
@@ -75,3 +79,7 @@ AI capabilities are improving at an accelerating rate that outpaces institutiona
 
 - **[Detailed Data & Analysis →](./data.md)** — Improvement rates, projections, and economic data
 - **[All Sources →](./sources.md)** — Primary and secondary sources with links
+
+---
+
+**[← Previous: Real-World Task Performance](../01-real-world-task-performance/)** | **[Next: Academic Benchmarks →](../03-academic-task-benchmarks/)**

@@ -1,3 +1,7 @@
+**[← AI Impact Research](../../)** · **[AI Capabilities Research](../)**
+
+---
+
 # Academic Task Benchmarks
 
 ## Research Question
@@ -77,3 +81,7 @@ AI models are achieving expert-level performance on many academic tasks, requiri
 
 - **[Detailed Data & Analysis →](./data.md)** — Full benchmark results and performance data
 - **[All Sources →](./sources.md)** — Primary and secondary sources with links
+
+---
+
+**[← Previous: Capability Trajectory](../02-capability-trajectory/)** | **[Next: Coding & Research →](../04-coding-and-research/)**

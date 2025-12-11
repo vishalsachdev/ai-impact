@@ -1,3 +1,7 @@
+**[← AI Impact Research](../../)** · **[AI Capabilities Research](../)**
+
+---
+
 # Safety and Alignment
 
 ## Research Question
@@ -77,3 +81,7 @@ Models vary in susceptibility to:
 
 - **[Detailed Data & Analysis →](./data.md)** — Safety metrics, hallucination rates, and model comparisons
 - **[All Sources →](./sources.md)** — Primary and secondary sources with links
+
+---
+
+**[← Previous: Agentic Capabilities](../05-agentic-capabilities/)** | **[Next: Educational Implications →](../07-educational-implications/)**

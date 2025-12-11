@@ -1,3 +1,7 @@
+**[← AI Impact Research](../../)** · **[AI Capabilities Research](../)**
+
+---
+
 # Agentic Capabilities
 
 ## Research Question
@@ -83,3 +87,7 @@ AI can now autonomously:
 
 - **[Detailed Data & Analysis →](./data.md)** — OSWorld results, autonomy data, and limitations
 - **[All Sources →](./sources.md)** — Primary and secondary sources with links
+
+---
+
+**[← Previous: Coding & Research](../04-coding-and-research/)** | **[Next: Safety & Alignment →](../06-safety-and-alignment/)**

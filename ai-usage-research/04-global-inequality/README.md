@@ -1,3 +1,7 @@
+**[← AI Impact Research](../../)** · **[AI Usage Research](../)**
+
+---
+
 # Research Question 4: Global Inequality in AI Access & Adoption
 
 ## Primary Question
@@ -27,3 +31,7 @@ Understanding global inequality in AI is critical for:
 
 - **[Detailed Data & Analysis →](./data.md)** — Inequality metrics, regional patterns, and impact projections
 - **[All Sources →](./sources.md)** — Primary and secondary sources with links
+
+---
+
+**[← Previous: Demographics & Adoption](../03-demographics-adoption/)** | **[Next: Enterprise vs Consumer →](../05-enterprise-vs-consumer/)**

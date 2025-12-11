@@ -1,3 +1,7 @@
+**[← AI Impact Research](../../)** · **[AI Usage Research](../)**
+
+---
+
 # Research Question 1: Automation vs Augmentation Patterns
 
 ## Primary Question
@@ -23,3 +27,7 @@ Understanding this split is critical for:
 
 - **[Detailed Data & Analysis →](./data.md)** — Full statistics, breakdowns, and implications
 - **[All Sources →](./sources.md)** — Primary and secondary sources with links
+
+---
+
+**[Next: Platform Specialization →](../02-platform-specialization/)**

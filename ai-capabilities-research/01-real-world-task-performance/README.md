@@ -1,3 +1,7 @@
+**[← AI Impact Research](../../)** · **[AI Capabilities Research](../)**
+
+---
+
 # Real-World Task Performance
 
 ## Research Question
@@ -97,3 +101,7 @@ On the 220-task GDPval gold set:
 
 - **[Detailed Data & Analysis →](./data.md)** — Full benchmarks, model comparisons, and implications
 - **[All Sources →](./sources.md)** — Primary and secondary sources with links
+
+---
+
+**[Next: Capability Trajectory →](../02-capability-trajectory/)**

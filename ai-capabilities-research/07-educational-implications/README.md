@@ -1,3 +1,7 @@
+**[← AI Impact Research](../../)** · **[AI Capabilities Research](../)**
+
+---
+
 # Educational Implications
 
 ## Research Question
@@ -228,3 +232,7 @@ AI capabilities have reached a threshold requiring fundamental changes to higher
 
 - **[Detailed Data & Analysis →](./data.md)** — Implementation details and discipline-specific guidance
 - **[All Sources →](./sources.md)** — Primary and secondary sources with links
+
+---
+
+**[← Previous: Safety & Alignment](../06-safety-and-alignment/)**

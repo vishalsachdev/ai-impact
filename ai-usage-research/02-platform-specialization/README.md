@@ -1,3 +1,7 @@
+**[← AI Impact Research](../../)** · **[AI Usage Research](../)**
+
+---
+
 # Research Question 2: Platform Specialization Patterns
 
 ## Primary Question
@@ -24,3 +28,7 @@ Understanding platform specialization is critical for:
 
 - **[Detailed Data & Analysis →](./data.md)** — Platform profiles and comparative analysis
 - **[All Sources →](./sources.md)** — Primary and secondary sources with links
+
+---
+
+**[← Previous: Automation vs Augmentation](../01-automation-vs-augmentation/)** | **[Next: Demographics & Adoption →](../03-demographics-adoption/)**

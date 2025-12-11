@@ -1,3 +1,7 @@
+**[← AI Impact Research](../../)** · **[AI Usage Research](../)**
+
+---
+
 # Research Question 6: Use Case Evolution Over Time
 
 ## Primary Question
@@ -27,3 +31,7 @@ Understanding use case evolution is critical for:
 
 - **[Detailed Data & Analysis →](./data.md)** — Temporal trends, use case shifts, platform evolution
 - **[All Sources →](./sources.md)** — Primary and secondary sources with links
+
+---
+
+**[← Previous: Enterprise vs Consumer](../05-enterprise-vs-consumer/)**

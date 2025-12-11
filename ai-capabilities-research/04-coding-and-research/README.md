@@ -1,3 +1,7 @@
+**[← AI Impact Research](../../)** · **[AI Capabilities Research](../)**
+
+---
+
 # Coding and Research Capabilities
 
 ## Research Question
@@ -83,3 +87,7 @@ AI models can now perform:
 
 - **[Detailed Data & Analysis →](./data.md)** — SWE-bench results, research capabilities, and studies
 - **[All Sources →](./sources.md)** — Primary and secondary sources with links
+
+---
+
+**[← Previous: Academic Benchmarks](../03-academic-task-benchmarks/)** | **[Next: Agentic Capabilities →](../05-agentic-capabilities/)**

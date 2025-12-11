@@ -1,3 +1,7 @@
+**[← AI Impact Research](../../)** · **[AI Usage Research](../)**
+
+---
+
 # Research Question 5: Enterprise vs Consumer Usage Patterns
 
 ## Primary Question
@@ -26,3 +30,7 @@ Understanding enterprise-consumer divergence is critical for:
 
 - **[Detailed Data & Analysis →](./data.md)** — Enterprise vs consumer patterns, pricing, privacy
 - **[All Sources →](./sources.md)** — Primary and secondary sources with links
+
+---
+
+**[← Previous: Global Inequality](../04-global-inequality/)** | **[Next: Use Case Evolution →](../06-use-case-evolution/)**

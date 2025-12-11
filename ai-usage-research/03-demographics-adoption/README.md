@@ -1,3 +1,7 @@
+**[← AI Impact Research](../../)** · **[AI Usage Research](../)**
+
+---
+
 # Research Question 3: Demographics & Adoption Trends
 
 ## Primary Question
@@ -26,3 +30,7 @@ Understanding demographic patterns is critical for:
 
 - **[Detailed Data & Analysis →](./data.md)** — Demographic breakdowns and trend analysis
 - **[All Sources →](./sources.md)** — Primary and secondary sources with links
+
+---
+
+**[← Previous: Platform Specialization](../02-platform-specialization/)** | **[Next: Global Inequality →](../04-global-inequality/)**

@@ -1,3 +1,7 @@
+**[← AI Impact Research](../)**
+
+---
+
 # AI Capabilities Research: Frontier Labs Benchmarks & Trajectories (2025)
 
 ## Overview
@@ -6,7 +10,8 @@ This repository contains comprehensive research on **what AI systems can do** �
 
 **Audience**: University stakeholders (administrators, faculty, curriculum designers, policy makers) adapting to rapidly changing AI capabilities.
 
-**Companion Research**: See [AI Usage Research](../ai-usage-research/) for how people actually use these systems.
+> **Related Track**: Looking for how people actually use AI (adoption, demographics, trends)?
+> See **[AI Usage Research →](../ai-usage-research/)**
 
 **Time Period**: 2024-2025 benchmark data with trajectory analysis
 
