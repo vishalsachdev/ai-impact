@@ -4,6 +4,8 @@
 
 This repository contains comprehensive research on how people use AI platforms from frontier labs (Anthropic, OpenAI, Google, Microsoft). The research is organized around six key research questions, each with detailed data, analysis, and sources.
 
+**Companion Research**: See [AI Capabilities Research](../ai-capabilities-research/) for what AI can do (benchmarks, trajectories, educational implications).
+
 **Purpose**: Academic paper/analysis
 **Time Period**: Primarily 2025 data (January - December)
 **Data Sources**: 50+ primary and secondary sources including:

@@ -1,10 +1,21 @@
 # AI Impact Research
 
-Research on AI's impact: platform usage patterns, demographics, global inequality, and enterprise adoption from frontier labs.
+Comprehensive research on AI from frontier labs: usage patterns, capabilities, trajectories, and implications for higher education.
 
-## Research Overview
+## Two Research Tracks
 
-This repository contains comprehensive research on how people use AI platforms from Anthropic, OpenAI, Google, and Microsoft.
+This repository contains two complementary research compilations:
+
+| Track | Focus | Audience |
+|-------|-------|----------|
+| **[AI Usage Research](ai-usage-research/)** | How people use AI | General |
+| **[AI Capabilities Research](ai-capabilities-research/)** | What AI can do | University stakeholders |
+
+---
+
+## AI Usage Research
+
+**How people use AI platforms from Anthropic, OpenAI, Google, and Microsoft.**
 
 **[View Full Research →](ai-usage-research/)**
 
@@ -25,13 +36,57 @@ This repository contains comprehensive research on how people use AI platforms f
 - **Teen Adoption**: 64% of U.S. teens use AI chatbots, 28% daily
 - **Enterprise Standard**: 90%+ Fortune 500 using Microsoft Copilot
 
-### Data Sources
+---
 
-50+ verified sources including:
-- Anthropic Economic Index (1M+ conversations)
-- OpenAI ChatGPT Study (1.5M conversations)
-- Microsoft Copilot Analysis (37.5M conversations)
-- Pew Research (1,458 teens surveyed)
-- IMF, UN, OECD research
+## AI Capabilities Research
 
-**[Explore the Research →](ai-usage-research/)**
+**What AI can do: benchmarks, trajectories, and educational implications.**
+
+**[View Full Research →](ai-capabilities-research/)**
+
+### Quick Links
+
+- [01. Real-World Task Performance](ai-capabilities-research/01-real-world-task-performance/)
+- [02. Capability Trajectory & Economic Impact](ai-capabilities-research/02-capability-trajectory/)
+- [03. Academic Task Benchmarks](ai-capabilities-research/03-academic-task-benchmarks/)
+- [04. Coding and Research](ai-capabilities-research/04-coding-and-research/)
+- [05. Agentic Capabilities](ai-capabilities-research/05-agentic-capabilities/)
+- [06. Safety and Alignment](ai-capabilities-research/06-safety-and-alignment/)
+- [07. Educational Implications](ai-capabilities-research/07-educational-implications/)
+
+### Key Findings
+
+- **Expert Parity**: ~50% of professional tasks at expert level (GDPval)
+- **Coding Leader**: Claude Opus 4.5 at 80.9% SWE-bench (first to exceed best human)
+- **PhD-Level Science**: Gemini 3 at 93.8% on GPQA Diamond
+- **100x Advantage**: AI completes tasks 100x faster and cheaper than experts
+- **Rapid Improvement**: Capabilities doubled in 14 months (GPT-4o → GPT-5)
+
+---
+
+## Data Sources
+
+**150+ verified sources** across both research tracks:
+
+- **Primary Research**: OpenAI GDPval, Anthropic Economic Index, Microsoft Copilot Analysis
+- **Benchmarks**: SWE-bench, GPQA, AIME, OSWorld
+- **Economic**: McKinsey, PWC, IMF projections
+- **Demographics**: Pew Research, UN, OECD
+- **Industry**: News analysis, platform comparisons
+
+---
+
+## For University Stakeholders
+
+This research is designed to inform higher education decision-making:
+
+| Role | Start Here |
+|------|------------|
+| Administrators | [Capability Trajectory](ai-capabilities-research/02-capability-trajectory/), [Educational Implications](ai-capabilities-research/07-educational-implications/) |
+| Faculty | [Academic Benchmarks](ai-capabilities-research/03-academic-task-benchmarks/), [Coding & Research](ai-capabilities-research/04-coding-and-research/) |
+| Curriculum Designers | [Educational Implications](ai-capabilities-research/07-educational-implications/), [Real-World Tasks](ai-capabilities-research/01-real-world-task-performance/) |
+| Policy Makers | [Safety & Alignment](ai-capabilities-research/06-safety-and-alignment/), [Usage Patterns](ai-usage-research/) |
+
+---
+
+**Last Updated**: 2025-12-10
