@@ -1,3 +1,5 @@
+**View this research at [vishalsachdev.github.io/ai-impact](https://vishalsachdev.github.io/ai-impact/)**
+
 # AI Impact Research
 
 Comprehensive research on AI from frontier labs: usage patterns, capabilities, trajectories, and implications for higher education.
