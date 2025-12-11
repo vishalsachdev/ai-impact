@@ -2,7 +2,7 @@
 
 ## Platform-Specific Temporal Trends
 
-### ChatGPT (OpenAI) Evolution
+### [ChatGPT (OpenAI)](https://openai.com/index/how-people-are-using-chatgpt/) Evolution
 
 #### Work vs Personal Usage Shift
 - **Mid-2024**: 53% non-work prompts, 47% work prompts
@@ -39,7 +39,7 @@
 
 ---
 
-### Claude (Anthropic) Evolution
+### [Claude (Anthropic)](https://www.anthropic.com/research/anthropic-economic-index-september-2025-report) Evolution
 
 #### Automation vs Augmentation Shift
 - **Late 2024**: 27% directive (automation) conversations
@@ -78,7 +78,7 @@
 
 ---
 
-### Microsoft Copilot Evolution (Jan → Sep 2025)
+### [Microsoft Copilot](https://microsoft.ai/news/its-about-time-the-copilot-usage-report-2025/) Evolution (Jan → Sep 2025)
 
 #### Broadening Beyond Technical Users
 

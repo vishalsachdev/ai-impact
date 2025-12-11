@@ -1,6 +1,6 @@
 # Academic Task Benchmarks: Detailed Data
 
-## GPQA (Graduate-Level Science)
+## [GPQA](https://storage.googleapis.com/deepmind-media/gemini/gemini_v2_5_report.pdf) (Graduate-Level Science)
 
 ### Benchmark Overview
 
@@ -42,7 +42,7 @@
 
 ---
 
-## AIME (Mathematics Competition)
+## [AIME](https://www.maa.org/math-competitions/aime) (Mathematics Competition)
 
 ### Benchmark Overview
 

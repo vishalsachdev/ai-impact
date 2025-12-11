@@ -19,7 +19,7 @@
 
 ## Historical Trends
 
-### Anthropic Economic Index (Claude)
+### [Anthropic Economic Index](https://www.anthropic.com/research/anthropic-economic-index-september-2025-report) (Claude)
 
 **Temporal Shift in Interaction Patterns:**
 - Late 2024: 27% directive conversations
@@ -34,7 +34,7 @@
   - Coding: 44% of API use
   - Administrative support: Significant portion
 
-### OpenAI ChatGPT Usage Patterns
+### [OpenAI ChatGPT Usage Study](https://openai.com/index/how-people-are-using-chatgpt/)
 
 **Work vs Personal Shift:**
 - Mid-2024: 53% non-work prompts
@@ -96,7 +96,7 @@
 
 ## Quantified Productivity Impacts
 
-### Microsoft Copilot - Workplace Productivity Research
+### [Microsoft Copilot](https://microsoft.ai/news/its-about-time-the-copilot-usage-report-2025/) - Workplace Productivity Research
 
 **Early Adopter Study:**
 - 70% felt more productive
@@ -104,7 +104,7 @@
 - Caught up on missed meetings 4x faster
 - 85% reach good first draft faster
 
-**New Employee Integration Study (125 Microsoft interns):**
+**[New Employee Integration Study](https://www.microsoft.com/en-us/research/publication/new-employee-copilot-usage-insights-into-productivity-and-socialization/) (125 Microsoft interns):**
 - Higher Copilot usage → better socialization
 - Higher usage → stronger team identification
 - Dramatic efficiency gains: "Hours → minutes on tasks"
@@ -117,7 +117,7 @@
 
 ## The Great Divergence
 
-### Key Finding from Fortune, Bloomberg, The Neuron Analysis
+### Key Finding from [Fortune](https://fortune.com/2025/09/15/openai-chatgpt-claude-anthropic-work-personal-use-new-data/), [Bloomberg](https://www.bloomberg.com/news/articles/2025-09-15/anthropic-finds-businesses-are-mainly-using-ai-to-automate-work), [The Neuron](https://www.theneuron.ai/explainer-articles/a-tale-of-two-ais-how-new-reports-from-openai-and-anthropic-reveal-a-global-split-in-ais-revolution) Analysis
 
 **Two Parallel AI Revolutions:**
 1. **Individual Users**: AI as personal advisor for life decisions

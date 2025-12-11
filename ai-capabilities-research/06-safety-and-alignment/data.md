@@ -10,7 +10,7 @@ Attempts to override model instructions through:
 - Multi-turn manipulation
 - Encoded or obfuscated instructions
 
-### Model Comparison
+### Model Comparison ([Anthropic Transparency Hub](https://www.anthropic.com/transparency/model-report))
 
 | Model | Resistance Level | Notes |
 |-------|------------------|-------|

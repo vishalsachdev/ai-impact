@@ -46,7 +46,7 @@
 - Female: 45.34%
 - **Nearly balanced distribution**
 
-**OpenAI-Harvard Study (1.5M conversation analysis):**
+**[OpenAI-Harvard Study](https://openai.com/index/how-people-are-using-chatgpt/) (1.5M conversation analysis):**
 - Female: 52.4% (slight majority)
 - Male: 47.6%
 
@@ -97,7 +97,7 @@
 - 25-34 years: 29.66% (plurality)
 - Specific breakdown for other age groups not available
 
-### Teen Usage (Ages 13-17, Pew Research December 2025)
+### Teen Usage (Ages 13-17, [Pew Research](https://www.pewresearch.com/internet/2025/12/09/teens-social-media-and-ai-chatbots-2025/) December 2025)
 
 **Overall Adoption:**
 - 64% use AI chatbots (ChatGPT, Gemini, etc.)
@@ -113,7 +113,7 @@
 - Suggests progressive exposure through high school years
 - Daily use (28%) represents significant habitual behavior
 
-### Generational Divide (OECD-Cisco Research)
+### Generational Divide ([OECD-Cisco Research](https://www.prnewswire.com/news-releases/oecd-cisco-research-finds-stark-geographical-and-generational-divides-in-ai-uptake-and-digital-well-being-302632418.html))
 
 **Under-35s:**
 - Far more likely to use AI
@@ -134,7 +134,7 @@
 
 ## Race & Ethnicity (U.S. Teens Only)
 
-### Pew Research Teen Study (December 2025)
+### [Pew Research Teen Study](https://www.pewresearch.com/internet/2025/12/09/teens-social-media-and-ai-chatbots-2025/) (December 2025)
 
 **Overall Usage:**
 - Black teens: 68% use chatbots
@@ -165,7 +165,7 @@
 
 ### Income-Based Adoption Paradox
 
-**OpenAI Study Finding (by May 2025):**
+**[OpenAI Study](https://openai.com/index/how-people-are-using-chatgpt/) Finding (by May 2025):**
 - Growth rate in lowest income countries: **4x that of highest income countries**
 - Suggests rapid adoption in developing economies
 
@@ -199,7 +199,7 @@
 
 ### Geographic Inequality Despite Growth
 
-**Anthropic AI Usage Index (AUI):**
+**[Anthropic AI Usage Index](https://www.anthropic.com/research/anthropic-economic-index-september-2025-report) (AUI):**
 - Singapore: 4.6x expected usage
 - Canada: 2.9x expected usage
 - India: 0.27x expected usage
@@ -210,7 +210,7 @@
 - High growth in poor countries doesn't mean high absolute usage
 - Gap between rich and poor countries remains severe
 
-### The AI Divide (IMF Research)
+### The AI Divide ([IMF Research](https://www.imf.org/en/publications/wp/issues/2025/04/04/ai-adoption-and-inequality-565729))
 
 **Adoption Rates:**
 - Global North: 23%
@@ -240,7 +240,7 @@
 
 ## Education & Student Demographics
 
-### Anthropic Education Report (1M Student Conversations, April 2025)
+### [Anthropic Education Report](https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude) (1M Student Conversations, April 2025)
 
 **STEM Overrepresentation:**
 - Computer Science students: 36.8% of conversations

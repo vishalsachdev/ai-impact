@@ -1,6 +1,6 @@
 # Real-World Task Performance: Detailed Data
 
-## GDPval Benchmark Design
+## [GDPval](https://openai.com/index/gdpval/) Benchmark Design
 
 ### Task Construction Methodology
 
@@ -48,7 +48,7 @@
 
 ## Model Performance Data
 
-### GDPval Gold Set Results (220 tasks)
+### [GDPval](https://openai.com/index/gdpval/) Gold Set Results (220 tasks)
 
 **Win + Tie Rates (Expert Parity or Better):**
 

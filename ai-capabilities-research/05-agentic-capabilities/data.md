@@ -1,6 +1,6 @@
 # Agentic Capabilities: Detailed Data
 
-## OSWorld Benchmark
+## [OSWorld Benchmark](https://www.anthropic.com/news/claude-opus-4-5)
 
 ### Overview
 

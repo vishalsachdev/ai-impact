@@ -21,7 +21,7 @@
 
 ## Regional Inequality Metrics
 
-### Anthropic AI Usage Index (AUI)
+### [Anthropic AI Usage Index](https://www.anthropic.com/research/anthropic-economic-index-september-2025-report) (AUI)
 
 **Definition**: Multiplier of expected usage based on population and GDP
 
@@ -44,7 +44,7 @@
 
 ## Adoption Rate Gaps
 
-### Global North vs Global South (IMF Data)
+### Global North vs Global South ([IMF Data](https://www.imf.org/en/publications/wp/issues/2025/04/04/ai-adoption-and-inequality-565729))
 
 **Adoption Rates:**
 - Global North: 23%
@@ -150,7 +150,7 @@
 
 ## Economic Impact Projections
 
-### IMF Working Paper Findings
+### [IMF Working Paper](https://www.imf.org/en/publications/wp/issues/2025/04/04/ai-adoption-and-inequality-565729) Findings
 
 **AI Growth Impact:**
 - Advanced economies: X (baseline)
@@ -171,7 +171,7 @@
 
 ### Speed of Change
 
-**UN Development Programme Assessment:**
+**[UN Development Programme](https://www.euronews.com/next/2025/12/02/ai-race-is-faster-than-countries-can-adapt-threatening-greater-global-inequality-un-report) Assessment:**
 - AI adoption: Months (not decades)
 - Previous tech waves: Years to decades for global diffusion
 - Many countries lack:

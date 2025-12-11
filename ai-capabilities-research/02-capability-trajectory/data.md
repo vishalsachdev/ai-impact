@@ -91,7 +91,7 @@
 
 ## Economic Impact Projections
 
-### McKinsey Global Institute
+### [McKinsey Global Institute](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier)
 
 **Key Findings**:
 - Generative AI could add $2.6-4.4 trillion annually to global economy
@@ -116,7 +116,7 @@
   - Consumption effects: $9.1 trillion
 - Largest gains: China (26% GDP boost), North America (14%)
 
-### International Monetary Fund (IMF)
+### [International Monetary Fund (IMF)](https://www.imf.org/en/publications/wp/issues/2025/04/04/ai-adoption-and-inequality-565729)
 
 **Key Findings**:
 - ~40% of global employment exposed to AI

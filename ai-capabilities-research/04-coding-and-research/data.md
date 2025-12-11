@@ -1,6 +1,6 @@
 # Coding and Research Capabilities: Detailed Data
 
-## SWE-bench Verified
+## [SWE-bench Verified](https://www.anthropic.com/news/claude-opus-4-5)
 
 ### Benchmark Overview
 
@@ -123,7 +123,7 @@
 
 ---
 
-## METR Counterpoint Study
+## [METR Counterpoint Study](https://metr.org/)
 
 ### Study Design
 - **Participants**: 16 veteran open-source developers
@@ -150,7 +150,7 @@
 
 ## Developer Productivity Studies
 
-### Microsoft New Employee Study (April 2025)
+### [Microsoft New Employee Study](https://www.microsoft.com/en-us/research/publication/new-employee-copilot-usage-insights-into-productivity-and-socialization/) (April 2025)
 
 **Sample**: 125 Microsoft interns with Copilot access
 

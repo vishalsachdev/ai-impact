@@ -58,7 +58,7 @@
 
 ### Significance of the Divide
 
-**Quote from Medium analysis**: "The generative AI market no longer merely offers different privacy settings; it has split into parallel universes."
+**Quote from [Medium analysis](https://medium.com/@michael_79773/the-great-ai-privacy-divide-one-year-later-two-worlds-apart-e74ce6187f1f)**: "The generative AI market no longer merely offers different privacy settings; it has split into parallel universes."
 
 **Interpretation**:
 - Not just feature differences
@@ -198,13 +198,13 @@
 
 ## Productivity Quantification (Enterprise)
 
-### Microsoft Copilot Early Adopters
+### [Microsoft Copilot Early Adopters](https://www.microsoft.com/en-us/worklab/work-trend-index/copilots-earliest-users-teach-us-about-generative-ai-at-work)
 - 70% felt more productive
 - 29% faster in searching, writing, summarizing
 - Caught up on missed meetings 4x faster
 - 85% reach good first draft faster
 
-### Microsoft Interns Study (125 participants)
+### [Microsoft Interns Study](https://www.microsoft.com/en-us/research/publication/new-employee-copilot-usage-insights-into-productivity-and-socialization/) (125 participants)
 - Higher Copilot usage → better socialization
 - Higher usage → stronger team identification
 - Efficiency gains: "Hours → minutes on tasks"
