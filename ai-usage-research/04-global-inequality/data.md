@@ -1,3 +1,7 @@
+**← [Back to Overview](./README.md)** | **[Sources →](./sources.md)**
+
+---
+
 # Global Inequality in AI: Detailed Data
 
 ## The Central Paradox

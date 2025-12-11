@@ -1,3 +1,7 @@
+**← [Back to Overview](./README.md)** | **[Data & Analysis →](./data.md)**
+
+---
+
 # Sources: Global Inequality in AI Access & Adoption
 
 ## Primary Research & Policy Reports

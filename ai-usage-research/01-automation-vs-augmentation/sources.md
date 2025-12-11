@@ -1,3 +1,7 @@
+**← [Back to Overview](./README.md)** | **[Data & Analysis →](./data.md)**
+
+---
+
 # Sources: Automation vs Augmentation Patterns
 
 ## Primary Research Reports

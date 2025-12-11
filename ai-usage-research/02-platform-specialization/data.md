@@ -1,3 +1,7 @@
+**← [Back to Overview](./README.md)** | **[Sources →](./sources.md)**
+
+---
+
 # Platform Specialization: Detailed Analysis
 
 ## Market Share (U.S., August 2025)

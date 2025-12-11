@@ -1,3 +1,7 @@
+**← [Back to Overview](./README.md)** | **[Sources →](./sources.md)**
+
+---
+
 # Academic Task Benchmarks: Detailed Data
 
 ## [GPQA](https://storage.googleapis.com/deepmind-media/gemini/gemini_v2_5_report.pdf) (Graduate-Level Science)

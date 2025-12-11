@@ -1,3 +1,7 @@
+**← [Back to Overview](./README.md)** | **[Sources →](./sources.md)**
+
+---
+
 # Coding and Research Capabilities: Detailed Data
 
 ## [SWE-bench Verified](https://www.anthropic.com/news/claude-opus-4-5)

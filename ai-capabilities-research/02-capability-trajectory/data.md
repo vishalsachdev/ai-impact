@@ -1,3 +1,7 @@
+**← [Back to Overview](./README.md)** | **[Sources →](./sources.md)**
+
+---
+
 # Capability Trajectory & Economic Impact: Detailed Data
 
 ## Model Capability Timeline

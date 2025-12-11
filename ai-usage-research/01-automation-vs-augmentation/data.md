@@ -1,3 +1,7 @@
+**← [Back to Overview](./README.md)** | **[Sources →](./sources.md)**
+
+---
+
 # Automation vs Augmentation: Detailed Data
 
 ## Definitions

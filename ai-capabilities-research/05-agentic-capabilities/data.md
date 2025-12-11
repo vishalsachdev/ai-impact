@@ -1,3 +1,7 @@
+**← [Back to Overview](./README.md)** | **[Sources →](./sources.md)**
+
+---
+
 # Agentic Capabilities: Detailed Data
 
 ## [OSWorld Benchmark](https://www.anthropic.com/news/claude-opus-4-5)

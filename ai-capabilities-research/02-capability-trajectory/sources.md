@@ -1,3 +1,7 @@
+**← [Back to Overview](./README.md)** | **[Data & Analysis →](./data.md)**
+
+---
+
 # Capability Trajectory & Economic Impact: Sources
 
 ## Economic Projections

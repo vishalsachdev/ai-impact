@@ -1,3 +1,7 @@
+**← [Back to Overview](./README.md)** | **[Data & Analysis →](./data.md)**
+
+---
+
 # Sources: Platform Specialization Patterns
 
 ## Primary Research Reports
