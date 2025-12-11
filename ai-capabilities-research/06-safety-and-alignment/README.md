@@ -14,7 +14,7 @@ AI safety characteristics vary significantly across models, with important impli
 
 ### 1. Prompt Injection Resistance
 
-**Claude Opus 4.5**: Industry-leading resistance to prompt injection attacks
+**Claude Opus 4.5**: Industry-leading resistance to prompt injection attacks ([Anthropic](https://www.anthropic.com/transparency/model-report))
 - Harder to manipulate than any other frontier model
 - Improved from previous generations
 - Critical for deployed applications

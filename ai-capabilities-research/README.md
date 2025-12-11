@@ -16,10 +16,10 @@ This repository contains comprehensive research on **what AI systems can do** �
 
 AI capabilities are advancing faster than institutional adaptation cycles:
 
-- **PhD-level reasoning**: Gemini 3 scores 93.8% on graduate-level science questions (GPQA Diamond)
-- **Software engineering**: Claude Opus 4.5 exceeds best human performance on real-world coding tasks
-- **Professional tasks**: AI completes authentic work deliverables 100x faster and 100x cheaper than experts
-- **Improvement rate**: Model capabilities doubled in 14 months (GPT-4o → GPT-5)
+- **PhD-level reasoning**: Gemini 3 scores 93.8% on graduate-level science questions (GPQA Diamond) ([Google](https://blog.google/products/gemini/gemini-3/))
+- **Software engineering**: Claude Opus 4.5 exceeds best human performance on real-world coding tasks ([Anthropic](https://www.anthropic.com/news/claude-opus-4-5))
+- **Professional tasks**: AI completes authentic work deliverables 100x faster and 100x cheaper than experts ([OpenAI](https://openai.com/index/gdpval/))
+- **Improvement rate**: Model capabilities doubled in 14 months (GPT-4o → GPT-5) ([OpenAI](https://openai.com/index/gdpval/))
 
 These developments have immediate implications for curriculum design, assessment integrity, research workflows, and workforce preparation.
 
@@ -32,11 +32,11 @@ These developments have immediate implications for curriculum design, assessment
 **Key Question**: How well do AI models perform on authentic professional tasks across occupations?
 
 **Key Findings**:
-- GDPval benchmark: 1,320 tasks across 44 occupations in 9 GDP-dominant sectors
-- Claude Opus 4.1 leads on deliverable quality (formatting, layout)
-- GPT-5 leads on accuracy (domain-specific knowledge)
-- AI achieves expert parity on ~50% of professional tasks
-- 100x speed and cost advantage over human experts
+- GDPval benchmark: 1,320 tasks across 44 occupations in 9 GDP-dominant sectors ([OpenAI](https://openai.com/index/gdpval/))
+- Claude Opus 4.1 leads on deliverable quality (formatting, layout) ([OpenAI](https://openai.com/index/gdpval/))
+- GPT-5 leads on accuracy (domain-specific knowledge) ([OpenAI](https://openai.com/index/gdpval/))
+- AI achieves expert parity on ~50% of professional tasks ([Fortune](https://fortune.com/2025/09/30/ai-models-are-already-as-good-as-experts-at-half-of-tasks-a-new-openai-benchmark-gdpval-suggests/))
+- 100x speed and cost advantage over human experts ([OpenAI](https://openai.com/index/gdpval/))
 
 **Significance**: AI is approaching professional competence across diverse occupations
 
@@ -47,10 +47,10 @@ These developments have immediate implications for curriculum design, assessment
 **Key Question**: How fast are AI capabilities improving, and what are the projected economic impacts?
 
 **Key Findings**:
-- GPT-4o → GPT-5: >2x improvement on GDPval (14 months)
-- Gemini 2.5 → Gemini 3: 50% improvement on developer tasks (7 months)
-- Claude 4.1 → 4.5: 74.5% → 80.9% SWE-bench (3 months)
-- McKinsey: $4.4 trillion annual economic impact potential
+- GPT-4o → GPT-5: >2x improvement on GDPval (14 months) ([OpenAI](https://openai.com/index/gdpval/))
+- Gemini 2.5 → Gemini 3: 50% improvement on developer tasks (7 months) ([Google](https://blog.google/products/gemini/gemini-3/))
+- Claude 4.1 → 4.5: 74.5% → 80.9% SWE-bench (3 months) ([Anthropic](https://www.anthropic.com/news/claude-opus-4-5))
+- McKinsey: $4.4 trillion annual economic impact potential ([McKinsey](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier))
 - PWC: $15.7 trillion global contribution by 2030
 
 **Significance**: Capability improvement is accelerating, not plateauing
@@ -62,9 +62,9 @@ These developments have immediate implications for curriculum design, assessment
 **Key Question**: How do models perform on academic/intellectual tasks relevant to universities?
 
 **Key Findings**:
-- **GPQA Diamond** (PhD-level science): Gemini 3 at 93.8%
-- **AIME 2025** (math competition): Gemini 3 at 95% raw, 100% with code execution
-- **Humanity's Last Exam**: 18.8% on frontier knowledge/reasoning (without tools)
+- **GPQA Diamond** (PhD-level science): Gemini 3 at 93.8% ([Google](https://blog.google/products/gemini/gemini-3/))
+- **AIME 2025** (math competition): Gemini 3 at 95% raw, 100% with code execution ([Google](https://blog.google/products/gemini/gemini-3/))
+- **Humanity's Last Exam**: 18.8% on frontier knowledge/reasoning (without tools) ([Google](https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/))
 - Writing, analysis, and research synthesis approaching expert quality
 
 **Significance**: Graduate-level academic work is increasingly within AI capability range
@@ -76,10 +76,10 @@ These developments have immediate implications for curriculum design, assessment
 **Key Question**: What can AI do in software development and research contexts?
 
 **Key Findings**:
-- **SWE-bench Verified**: Claude Opus 4.5 at 80.9% (first to exceed best human)
-- Claude exceeds best human on Anthropic's internal engineering test
-- AI research tasks: GPU kernels, RL algorithms, ML model training
-- **Counterpoint**: METR study found experienced devs 19% slower with AI assistance
+- **SWE-bench Verified**: Claude Opus 4.5 at 80.9% (first to exceed best human) ([Anthropic](https://www.anthropic.com/news/claude-opus-4-5))
+- Claude exceeds best human on Anthropic's internal engineering test ([Anthropic](https://www.anthropic.com/news/claude-opus-4-5))
+- AI research tasks: GPU kernels, RL algorithms, ML model training ([Anthropic](https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic))
+- **Counterpoint**: METR study found experienced devs 19% slower with AI assistance ([METR](https://metr.org/))
 
 **Significance**: Coding education and CS curriculum require fundamental rethinking
 
@@ -90,9 +90,9 @@ These developments have immediate implications for curriculum design, assessment
 **Key Question**: What autonomous, multi-step work can AI perform?
 
 **Key Findings**:
-- **OSWorld** (computer use): Claude at 61.4% on real desktop/web tasks
+- **OSWorld** (computer use): Claude at 61.4% on real desktop/web tasks ([Anthropic](https://www.anthropic.com/news/claude-opus-4-5))
 - Multi-file code changes with context awareness
-- Autonomous refinement: peak performance in 4 iterations
+- Autonomous refinement: peak performance in 4 iterations ([Anthropic](https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic))
 - Research workflow automation emerging
 
 **Significance**: AI transitioning from tool to autonomous agent
@@ -104,7 +104,7 @@ These developments have immediate implications for curriculum design, assessment
 **Key Question**: How robust and safe are current AI models?
 
 **Key Findings**:
-- Claude Opus 4.5 leads in prompt injection resistance
+- Claude Opus 4.5 leads in prompt injection resistance ([Anthropic](https://www.anthropic.com/transparency/model-report))
 - Jailbreak success rates vary significantly across models
 - Hallucination rates improving but still significant
 - Safety-capability tradeoffs in model design

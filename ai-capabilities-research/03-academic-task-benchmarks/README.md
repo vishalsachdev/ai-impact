@@ -14,21 +14,21 @@ AI models are achieving expert-level performance on many academic tasks, requiri
 
 ### 1. Graduate-Level Science (GPQA Diamond)
 
-**Benchmark**: PhD-level questions in physics, biology, and chemistry
+**Benchmark**: PhD-level questions in physics, biology, and chemistry ([Google](https://blog.google/products/gemini/gemini-3/))
 - **Gemini 3 Deep Think**: 93.8%
 - **Human PhD students**: ~65-70% (in their domain)
 - **Significance**: AI exceeds average PhD student in multi-domain science
 
 ### 2. Mathematics (AIME 2025)
 
-**Benchmark**: American Invitational Mathematics Examination
+**Benchmark**: [American Invitational Mathematics Examination](https://www.maa.org/math-competitions/aime) ([Google](https://blog.google/products/gemini/gemini-3/))
 - **Gemini 3**: 95% raw, 100% with code execution
 - **Human qualification threshold**: ~50%
 - **Significance**: Near-perfect on competition-level math
 
 ### 3. Frontier Knowledge (Humanity's Last Exam)
 
-**Benchmark**: Questions at the edge of human knowledge
+**Benchmark**: Questions at the edge of human knowledge ([Google](https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/))
 - **Gemini 2.5 Pro**: 18.8% (without tools)
 - **Expert humans**: ~40-50%
 - **Significance**: AI approaching half of frontier knowledge performance

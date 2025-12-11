@@ -14,7 +14,7 @@ AI coding capabilities have reached a threshold where they exceed human expert p
 
 ### 1. SWE-bench Verified (Software Engineering)
 
-**Benchmark**: Real-world GitHub issues requiring multi-file fixes
+**Benchmark**: Real-world GitHub issues requiring multi-file fixes ([Anthropic](https://www.anthropic.com/news/claude-opus-4-5))
 
 | Model | Score | Date | Significance |
 |-------|-------|------|--------------|
@@ -25,7 +25,7 @@ AI coding capabilities have reached a threshold where they exceed human expert p
 
 ### 2. Human Expert Comparison
 
-- Claude Opus 4.5 **exceeds best human candidate** on Anthropic's internal engineering test
+- Claude Opus 4.5 **exceeds best human candidate** on Anthropic's internal engineering test ([Anthropic](https://www.anthropic.com/news/claude-opus-4-5))
 - With parallel test-time compute, matches best-ever human performance
 - First documented case of AI exceeding top human software engineer on realistic tasks
 
@@ -40,7 +40,7 @@ AI models can now perform:
 
 ### 4. Counterpoint: METR Study
 
-**Finding**: Experienced developers 19% slower with AI assistance
+**Finding**: Experienced developers 19% slower with AI assistance ([METR](https://metr.org/))
 - 16 veteran open-source programmers
 - 246 real-world tasks
 - AI assistance reduced speed, not increased it

@@ -14,9 +14,9 @@ AI models are approaching or exceeding expert-level performance on a significant
 
 ### 1. GDPval Benchmark Overview
 
-OpenAI's GDPval (September 2025) provides the most comprehensive evaluation of AI on real-world professional tasks:
+OpenAI's [GDPval](https://openai.com/index/gdpval/) (September 2025) provides the most comprehensive evaluation of AI on real-world professional tasks:
 
-- **Scale**: 1,320 tasks across 44 occupations in 9 GDP-dominant U.S. sectors
+- **Scale**: 1,320 tasks across 44 occupations in 9 GDP-dominant U.S. sectors ([OpenAI](https://openai.com/index/gdpval/))
 - **Methodology**: Industry professionals with ~14 years average experience create tasks
 - **Evaluation**: Blinded pairwise comparisons by occupational experts
 - **Deliverables**: Authentic outputs (presentations, spreadsheets, briefs, CAD files, audio/video)
@@ -35,9 +35,9 @@ On the 220-task GDPval gold set:
 
 ### 3. Speed and Cost Advantage
 
-- AI completes GDPval tasks **100x faster** than human experts
-- AI completes GDPval tasks **100x cheaper** than human experts
-- Linear improvement trajectory: performance doubled from GPT-4o to GPT-5 (14 months)
+- AI completes GDPval tasks **100x faster** than human experts ([OpenAI](https://openai.com/index/gdpval/))
+- AI completes GDPval tasks **100x cheaper** than human experts ([OpenAI](https://openai.com/index/gdpval/))
+- Linear improvement trajectory: performance doubled from GPT-4o to GPT-5 (14 months) ([OpenAI](https://openai.com/index/gdpval/))
 
 ### 4. Task Categories Where AI Excels
 

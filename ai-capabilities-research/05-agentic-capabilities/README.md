@@ -14,7 +14,7 @@ AI is transitioning from tool (requiring human prompting at each step) to agent 
 
 ### 1. OSWorld (Computer Use)
 
-**Benchmark**: Real desktop and web tasks on virtual machines
+**Benchmark**: Real desktop and web tasks on virtual machines ([Anthropic](https://www.anthropic.com/news/claude-opus-4-5))
 
 | Model | Score | Date |
 |-------|-------|------|
@@ -29,7 +29,7 @@ AI is transitioning from tool (requiring human prompting at each step) to agent 
 
 ### 2. Autonomous Refinement
 
-**Anthropic Finding**: Claude agents can autonomously refine their own outputs
+**Anthropic Finding**: Claude agents can autonomously refine their own outputs ([Anthropic](https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic))
 - Peak performance achieved in **4 iterations**
 - Other models couldn't match quality after 10 iterations
 - Self-correction without human intervention

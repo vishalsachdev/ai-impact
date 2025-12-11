@@ -15,13 +15,13 @@ Understanding use case evolution is critical for:
 - Labor market impact forecasting
 
 ## Key Findings Summary
-- **Decline in technical help**: ChatGPT technical help requests 12% → 5% (58% decline, July 2024 → July 2025)
-- **Work → Personal shift**: ChatGPT non-work usage 53% → 72% (mid-2024 → mid-2025)
-- **Education growth**: Claude educational tasks 9% → 12% (early 2025 → August 2025)
-- **Scientific growth**: Claude scientific tasks 6% → 7%
-- **Broadening beyond code**: Copilot fewer programming conversations, more culture/history (Jan → Sep 2025)
-- **Device-context shift**: Copilot desktop = work, mobile = health/wellness (different use cases by device)
-- **Automation rising**: Claude automation 27% → 39% (late 2024 → Aug 2025)
+- **Decline in technical help**: ChatGPT technical help requests 12% → 5% (58% decline, July 2024 → July 2025) ([OpenAI](https://openai.com/index/how-people-are-using-chatgpt/))
+- **Work → Personal shift**: ChatGPT non-work usage 53% → 72% (mid-2024 → mid-2025) ([OpenAI](https://openai.com/index/how-people-are-using-chatgpt/))
+- **Education growth**: Claude educational tasks 9% → 12% (early 2025 → August 2025) ([Anthropic](https://www.anthropic.com/research/anthropic-economic-index-september-2025-report))
+- **Scientific growth**: Claude scientific tasks 6% → 7% ([Anthropic](https://www.anthropic.com/research/anthropic-economic-index-september-2025-report))
+- **Broadening beyond code**: Copilot fewer programming conversations, more culture/history (Jan → Sep 2025) ([Microsoft](https://microsoft.ai/news/its-about-time-the-copilot-usage-report-2025/))
+- **Device-context shift**: Copilot desktop = work, mobile = health/wellness (different use cases by device) ([Microsoft](https://microsoft.ai/news/its-about-time-the-copilot-usage-report-2025/))
+- **Automation rising**: Claude automation 27% → 39% (late 2024 → Aug 2025) ([Anthropic](https://www.anthropic.com/research/anthropic-economic-index-september-2025-report))
 
 ## Files in This Directory
 - `data.md` - Detailed temporal trends, use case shifts, platform evolution

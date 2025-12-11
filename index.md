@@ -32,11 +32,11 @@ This repository contains two complementary research compilations:
 
 ### Key Findings
 
-- **Gender Parity Achieved**: ChatGPT now 52.4% female users (fastest of any major tech)
-- **Automation Rising**: Claude automation usage 27% → 39% (2024-2025)
-- **Global Paradox**: Emerging economies growing 4x faster but usage 23x lower
-- **Teen Adoption**: 64% of U.S. teens use AI chatbots, 28% daily
-- **Enterprise Standard**: 90%+ Fortune 500 using Microsoft Copilot
+- **Gender Parity Achieved**: ChatGPT now 52.4% female users (fastest of any major tech) ([OpenAI](https://openai.com/index/how-people-are-using-chatgpt/))
+- **Automation Rising**: Claude automation usage 27% → 39% (2024-2025) ([Anthropic](https://www.anthropic.com/research/anthropic-economic-index-september-2025-report))
+- **Global Paradox**: Emerging economies growing 4x faster but usage 23x lower ([OpenAI](https://openai.com/index/how-people-are-using-chatgpt/), [Anthropic](https://www.anthropic.com/research/anthropic-economic-index-september-2025-report))
+- **Teen Adoption**: 64% of U.S. teens use AI chatbots, 28% daily ([Pew Research](https://www.pewresearch.com/internet/2025/12/09/teens-social-media-and-ai-chatbots-2025/))
+- **Enterprise Standard**: 90%+ Fortune 500 using Microsoft Copilot ([Microsoft](https://www.microsoft.com/en-us/microsoft-365/blog/2025/11/18/microsoft-ignite-2025-copilot-and-agents-built-to-power-the-frontier-firm/))
 
 ---
 
@@ -58,11 +58,11 @@ This repository contains two complementary research compilations:
 
 ### Key Findings
 
-- **Expert Parity**: ~50% of professional tasks at expert level (GDPval)
-- **Coding Leader**: Claude Opus 4.5 at 80.9% SWE-bench (first to exceed best human)
-- **PhD-Level Science**: Gemini 3 at 93.8% on GPQA Diamond
-- **100x Advantage**: AI completes tasks 100x faster and cheaper than experts
-- **Rapid Improvement**: Capabilities doubled in 14 months (GPT-4o → GPT-5)
+- **Expert Parity**: ~50% of professional tasks at expert level ([OpenAI GDPval](https://openai.com/index/gdpval/))
+- **Coding Leader**: Claude Opus 4.5 at 80.9% SWE-bench (first to exceed best human) ([Anthropic](https://www.anthropic.com/news/claude-opus-4-5))
+- **PhD-Level Science**: Gemini 3 at 93.8% on GPQA Diamond ([Google](https://blog.google/products/gemini/gemini-3/))
+- **100x Advantage**: AI completes tasks 100x faster and cheaper than experts ([OpenAI](https://openai.com/index/gdpval/))
+- **Rapid Improvement**: Capabilities doubled in 14 months (GPT-4o → GPT-5) ([OpenAI](https://openai.com/index/gdpval/))
 
 ---
 
@@ -70,10 +70,10 @@ This repository contains two complementary research compilations:
 
 **150+ verified sources** across both research tracks:
 
-- **Primary Research**: OpenAI GDPval, Anthropic Economic Index, Microsoft Copilot Analysis
+- **Primary Research**: [OpenAI GDPval](https://openai.com/index/gdpval/), [Anthropic Economic Index](https://www.anthropic.com/research/anthropic-economic-index-september-2025-report), [Microsoft Copilot Analysis](https://microsoft.ai/news/its-about-time-the-copilot-usage-report-2025/)
 - **Benchmarks**: SWE-bench, GPQA, AIME, OSWorld
-- **Economic**: McKinsey, PWC, IMF projections
-- **Demographics**: Pew Research, UN, OECD
+- **Economic**: [McKinsey](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier), PWC, [IMF](https://www.imf.org/en/publications/wp/issues/2025/04/04/ai-adoption-and-inequality-565729) projections
+- **Demographics**: [Pew Research](https://www.pewresearch.com/internet/2025/12/09/teens-social-media-and-ai-chatbots-2025/), UN, OECD
 - **Industry**: News analysis, platform comparisons
 
 ---
