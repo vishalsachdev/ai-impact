@@ -19,6 +19,7 @@ Understanding this split is critical for:
 - **Platform specialization**: ChatGPT → personal advisor, Claude → work automation engine ([Fortune](https://fortune.com/2025/09/15/openai-chatgpt-claude-anthropic-work-personal-use-new-data/))
 - **Productivity gains**: 70% of Copilot users felt more productive, 29% faster at core tasks ([Microsoft](https://www.microsoft.com/en-us/worklab/work-trend-index/copilots-earliest-users-teach-us-about-generative-ai-at-work))
 
-## Files in This Directory
-- `data.md` - Detailed findings, statistics, and analysis
-- `sources.md` - Primary and secondary sources with links
+## Explore This Research
+
+- **[Detailed Data & Analysis →](./data.md)** — Full statistics, breakdowns, and implications
+- **[All Sources →](./sources.md)** — Primary and secondary sources with links

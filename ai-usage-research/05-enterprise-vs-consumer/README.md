@@ -22,6 +22,7 @@ Understanding enterprise-consumer divergence is critical for:
 - **Industry leaders**: IT & telecom (38%), retail (31%), financial services (24%) ([Menlo Ventures](https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterprise/))
 - **Consumer dominance**: ChatGPT 73% personal tasks, becoming personal advisor vs work tool ([OpenAI](https://openai.com/index/how-people-are-using-chatgpt/))
 
-## Files in This Directory
-- `data.md` - Detailed comparison of enterprise vs consumer patterns, pricing, privacy
-- `sources.md` - Primary and secondary sources with links
+## Explore This Research
+
+- **[Detailed Data & Analysis →](./data.md)** — Enterprise vs consumer patterns, pricing, privacy
+- **[All Sources →](./sources.md)** — Primary and secondary sources with links

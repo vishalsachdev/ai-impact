@@ -23,6 +23,7 @@ Understanding use case evolution is critical for:
 - **Device-context shift**: Copilot desktop = work, mobile = health/wellness (different use cases by device) ([Microsoft](https://microsoft.ai/news/its-about-time-the-copilot-usage-report-2025/))
 - **Automation rising**: Claude automation 27% → 39% (late 2024 → Aug 2025) ([Anthropic](https://www.anthropic.com/research/anthropic-economic-index-september-2025-report))
 
-## Files in This Directory
-- `data.md` - Detailed temporal trends, use case shifts, platform evolution
-- `sources.md` - Primary and secondary sources with links
+## Explore This Research
+
+- **[Detailed Data & Analysis →](./data.md)** — Temporal trends, use case shifts, platform evolution
+- **[All Sources →](./sources.md)** — Primary and secondary sources with links

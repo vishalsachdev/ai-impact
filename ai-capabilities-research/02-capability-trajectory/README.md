@@ -71,6 +71,7 @@ AI capabilities are improving at an accelerating rate that outpaces institutiona
 
 ---
 
-## Sources
+## Explore This Research
 
-See [sources.md](./sources.md) for complete source list.
+- **[Detailed Data & Analysis →](./data.md)** — Improvement rates, projections, and economic data
+- **[All Sources →](./sources.md)** — Primary and secondary sources with links

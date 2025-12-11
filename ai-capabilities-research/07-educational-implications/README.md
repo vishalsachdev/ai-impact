@@ -224,6 +224,7 @@ AI capabilities have reached a threshold requiring fundamental changes to higher
 
 ---
 
-## Sources
+## Explore This Research
 
-See [sources.md](./sources.md) for complete source list.
+- **[Detailed Data & Analysis →](./data.md)** — Implementation details and discipline-specific guidance
+- **[All Sources →](./sources.md)** — Primary and secondary sources with links

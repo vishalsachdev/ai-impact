@@ -79,6 +79,7 @@ AI models can now perform:
 
 ---
 
-## Sources
+## Explore This Research
 
-See [sources.md](./sources.md) for complete source list.
+- **[Detailed Data & Analysis →](./data.md)** — SWE-bench results, research capabilities, and studies
+- **[All Sources →](./sources.md)** — Primary and secondary sources with links

@@ -73,6 +73,7 @@ Models vary in susceptibility to:
 
 ---
 
-## Sources
+## Explore This Research
 
-See [sources.md](./sources.md) for complete source list.
+- **[Detailed Data & Analysis →](./data.md)** — Safety metrics, hallucination rates, and model comparisons
+- **[All Sources →](./sources.md)** — Primary and secondary sources with links

@@ -79,6 +79,7 @@ AI can now autonomously:
 
 ---
 
-## Sources
+## Explore This Research
 
-See [sources.md](./sources.md) for complete source list.
+- **[Detailed Data & Analysis →](./data.md)** — OSWorld results, autonomy data, and limitations
+- **[All Sources →](./sources.md)** — Primary and secondary sources with links

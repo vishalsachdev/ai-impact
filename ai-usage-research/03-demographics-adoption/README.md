@@ -22,6 +22,7 @@ Understanding demographic patterns is critical for:
 - **Racial disparities (U.S. teens)**: Black/Hispanic teens use AI more than white teens ([Pew Research](https://www.pewresearch.com/internet/2025/12/09/teens-social-media-and-ai-chatbots-2025/))
 - **Generational divide**: Under-35s far more likely to use and trust AI ([OECD-Cisco](https://www.prnewswire.com/news-releases/oecd-cisco-research-finds-stark-geographical-and-generational-divides-in-ai-uptake-and-digital-well-being-302632418.html))
 
-## Files in This Directory
-- `data.md` - Detailed demographic breakdowns and trend analysis
-- `sources.md` - Primary and secondary sources with links
+## Explore This Research
+
+- **[Detailed Data & Analysis →](./data.md)** — Demographic breakdowns and trend analysis
+- **[All Sources →](./sources.md)** — Primary and secondary sources with links

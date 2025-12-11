@@ -20,6 +20,7 @@ Understanding platform specialization is critical for:
 - **Gemini**: Enterprise integration specialist (63% enterprise users), Google Workspace embedding ([SQ Magazine](https://sqmagazine.co.uk/google-gemini-ai-statistics/))
 - **Copilot**: Workplace productivity (90%+ Fortune 500), Microsoft ecosystem integration ([Microsoft](https://www.microsoft.com/en-us/microsoft-365/blog/2025/11/18/microsoft-ignite-2025-copilot-and-agents-built-to-power-the-frontier-firm/))
 
-## Files in This Directory
-- `data.md` - Detailed platform profiles and comparative analysis
-- `sources.md` - Primary and secondary sources with links
+## Explore This Research
+
+- **[Detailed Data & Analysis →](./data.md)** — Platform profiles and comparative analysis
+- **[All Sources →](./sources.md)** — Primary and secondary sources with links

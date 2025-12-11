@@ -93,6 +93,7 @@ On the 220-task GDPval gold set:
 
 ---
 
-## Sources
+## Explore This Research
 
-See [sources.md](./sources.md) for complete source list.
+- **[Detailed Data & Analysis →](./data.md)** — Full benchmarks, model comparisons, and implications
+- **[All Sources →](./sources.md)** — Primary and secondary sources with links

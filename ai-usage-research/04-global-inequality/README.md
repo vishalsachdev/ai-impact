@@ -23,6 +23,7 @@ Understanding global inequality in AI is critical for:
 - **Infrastructure barriers**: 25% of Asia-Pacific offline, women in South Asia 40% less likely to own smartphones ([OECD-Cisco](https://www.prnewswire.com/news-releases/oecd-cisco-research-finds-stark-geographical-and-generational-divides-in-ai-uptake-and-digital-well-being-302632418.html))
 - **Speed vs equity**: AI adoption happening in months (not decades), many countries lack infrastructure/skills/governance ([UN](https://www.euronews.com/next/2025/12/02/ai-race-is-faster-than-countries-can-adapt-threatening-greater-global-inequality-un-report))
 
-## Files in This Directory
-- `data.md` - Detailed inequality metrics, regional patterns, and impact projections
-- `sources.md` - Primary and secondary sources with links
+## Explore This Research
+
+- **[Detailed Data & Analysis →](./data.md)** — Inequality metrics, regional patterns, and impact projections
+- **[All Sources →](./sources.md)** — Primary and secondary sources with links
