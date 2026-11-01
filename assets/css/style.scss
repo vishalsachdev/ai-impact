@@ -1,0 +1,24 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Keep wide tables, code blocks and long URLs from widening the page on phones. */
+table {
+  display: block;
+  max-width: 100%;
+  overflow-x: auto;
+}
+
+pre {
+  max-width: 100%;
+  overflow-x: auto;
+}
+
+section {
+  overflow-wrap: break-word;
+}
+
+section a {
+  overflow-wrap: anywhere;
+}

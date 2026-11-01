@@ -2,7 +2,37 @@
 
 ---
 
-# AI Platform Usage Research: Frontier Labs Analysis (2025)
+# AI Platform Usage Research: Frontier Labs Analysis (2025-2026)
+
+## November 2026 update
+
+**Updated November 1, 2026.** The numbers in this section are current as of their dates. The rest of this page is the December 2025 compilation, kept as dated history.
+
+### Reach, from each company's own statements
+
+| Platform | Latest stated number | Date | What it counts |
+|----------|----------------------|------|----------------|
+| ChatGPT | More than 1.2 billion people each week | Oct 7, 2026 | Company statement, no method given ([OpenAI](https://openai.com/index/gpt-6-for-everyone/)) |
+| Gemini app | One billion users, after 950 million monthly active users in July | Oct 28, 2026 | The October remark does not say monthly ([Alphabet](https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q3-2026/)) |
+| Microsoft 365 Copilot | Over 30 million paid seats | Jul 29, 2026 | Paid seats, not users ([Microsoft](https://www.microsoft.com/en-us/investor/events/fy-2026/earnings-fy-2026-q4)) |
+| Claude | No company-stated user count located | | Run-rate revenue crossed $47 billion in May 2026 ([Anthropic](https://www.anthropic.com/news/series-h)) |
+
+### Share, by two different methods
+
+Statcounter's October 2026 U.S. figures put ChatGPT at 37.1% and Gemini at 35.42% of tracked page views referred by chatbots ([Statcounter Global Stats, undated page, read Nov 1, 2026](https://gs.statcounter.com/ai-chatbot-market-share/all/united-states-of-america)). Similarweb reports ChatGPT's share of worldwide generative AI site visits fell from about 76% in June 2025 to about 53% by May 2026 ([Similarweb, Jul 29, 2026](https://aisearch.similarweb.com/blog/gen-ai-stats/)). Neither counts users, and the two are not comparable.
+
+### What changed by research question
+
+- **Automation:** augmentation led again in Anthropic's November 2025 sample, 52% to 45% ([Anthropic, Jan 15, 2026](https://www.anthropic.com/research/anthropic-economic-index-january-2026-report)).
+- **Specialization:** enterprise is more than 40% of OpenAI's revenue ([OpenAI, Mar 31, 2026](https://openai.com/index/accelerating-the-next-phase-ai/)), and personal use reaches just under 50% of Claude conversations on weekends ([Anthropic, Jun 26, 2026](https://www.anthropic.com/research/economic-index-june-2026-report)).
+- **Demographics:** 49% of U.S. adults use chatbots ([Pew Research Center, Jun 17, 2026](https://www.pewresearch.org/internet/2026/06/17/americans-and-ai-2026-chatbots-smart-devices-and-views-on-impact/)). The gender gap in ever-use has closed, but not in daily use ([Pew Research Center, Jun 17, 2026](https://www.pewresearch.org/internet/2026/06/17/the-gender-gap-in-ai/)).
+- **Global inequality:** the North-South gap grew to 12.6 points in Microsoft's telemetry ([Microsoft AI Economy Institute, Sep 21, 2026](https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/Microsoft-AI-Diffusion-Report-2026-Q2.pdf)), and low-adoption countries fell slightly further behind on Claude ([Anthropic, Mar 24, 2026](https://www.anthropic.com/research/economic-index-march-2026-report)). OpenAI reports faster relative growth in lower-HDI countries ([OpenAI, Jun 30, 2026](https://openai.com/index/how-chatgpt-adoption-has-expanded/); [OpenAI, Aug 6, 2026](https://openai.com/index/how-the-world-is-putting-chatgpt-to-work/)), so the measures do not agree.
+- **Enterprise:** business adoption depends on the measure: 17% to 20% in the Census survey ([U.S. Census Bureau, May 26, 2026](https://www.census.gov/library/stories/2026/05/ai-use-businesses.html)), 55.9% of Ramp customers paying for AI ([Ramp, Oct 14, 2026](https://ramp.com/data/ai-index-oct-2026)), and nearly nine in ten McKinsey respondents ([McKinsey, Aug 25, 2026](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai)).
+- **Use cases:** Claude.ai's coding share fell from 40% to 34% ([Anthropic, Jan 15, 2026](https://www.anthropic.com/research/anthropic-economic-index-january-2026-report)). The ten most common work activities fell from 56.0% to 51.1% of consumer ChatGPT work messages ([OpenAI, Oct 26, 2026](https://openai.com/index/chatgpt-expanding-world-of-work/)).
+
+**How this update was made.** Every added number was read on its primary source page, or on a copy named in the method note, on November 1, 2026. Sources that could not be opened were left out. The research was done with Claude, an Anthropic model, and Anthropic's models and reports are subjects here, so vendor-reported numbers are labelled throughout.
+
+---
 
 ## Overview
 
@@ -12,7 +42,7 @@ This repository contains comprehensive research on how people use AI platforms f
 > See **[AI Capabilities Research →](../ai-capabilities-research/)**
 
 **Purpose**: Academic paper/analysis
-**Time Period**: Primarily 2025 data (January - December)
+**Time Period**: 2025 data, with evidence published through October 2026 in the November 2026 sections
 **Data Sources**: 50+ primary and secondary sources including:
 - Major research reports analyzing 1M - 37.5M conversations
 - Statistical aggregations and market research
@@ -27,10 +57,10 @@ This repository contains comprehensive research on how people use AI platforms f
 
 **Key Question**: How are users interacting with AI—as automation tools (directive task completion) versus augmentation tools (collaborative interaction)?
 
-**Key Findings**:
-- Historic shift in Aug 2025: First time automation (39%) approached augmentation levels ([Anthropic](https://www.anthropic.com/research/anthropic-economic-index-september-2025-report))
+**Key Findings (December 2025)**:
+- Historic shift in Aug 2025: directive use reached 39%, and automation briefly passed augmentation (about 49% to 47%), before reversing by November 2025 ([Anthropic](https://www.anthropic.com/research/anthropic-economic-index-september-2025-report))
 - 77% of business API use is automation (full task delegation) ([Anthropic](https://www.anthropic.com/research/anthropic-economic-index-september-2025-report))
-- 73% of ChatGPT use is personal/advisory (augmentation-focused) ([OpenAI](https://openai.com/index/how-people-are-using-chatgpt/))
+- 73% of ChatGPT use is personal/advisory (augmentation-focused) ([OpenAI](https://openai.com/index/how-people-are-using-chatgpt/)) *Corrected November 1, 2026: the 73% is the non-work share in June 2025. Asking was 49% ([OpenAI paper](https://cdn.openai.com/pdf/a253471f-8260-40c6-a2cc-aa93fe9f142e/economic-research-chatgpt-usage-paper.pdf)).*
 - Platform divergence: ChatGPT → personal advisor, Claude → work automation engine ([Fortune](https://fortune.com/2025/09/15/openai-chatgpt-claude-anthropic-work-personal-use-new-data/))
 
 **Significance**: Reveals "Tale of Two AIs" - businesses automating while individuals seeking advice
@@ -41,8 +71,8 @@ This repository contains comprehensive research on how people use AI platforms f
 
 **Key Question**: Are AI platforms specializing for different use cases, user segments, and interaction paradigms?
 
-**Key Findings**:
-- **ChatGPT**: Consumer dominance (59.7% market share), personal advisor role, 700M+ WAU ([SQ Magazine](https://sqmagazine.co.uk/chatgpt-vs-google-gemini-statistics/), [Index.dev](https://www.index.dev/blog/chatgpt-statistics))
+**Key Findings (December 2025)**:
+- **ChatGPT**: Consumer dominance (59.7% market share), personal advisor role, 700M+ WAU ([SQ Magazine](https://sqmagazine.co.uk/chatgpt-vs-google-gemini-statistics/), [Index.dev](https://www.index.dev/blog/chatgpt-statistics)) *Corrected November 1, 2026: the share figures in this list came from aggregators and could not be traced to a primary source. Do not cite them.*
 - **Claude**: Enterprise coding specialist (36% of usage), automation engine, 70% YoY growth ([Anthropic](https://www.anthropic.com/research/anthropic-economic-index-september-2025-report), [SQ Magazine](https://sqmagazine.co.uk/claude-vs-chatgpt-statistics/))
 - **Gemini**: Enterprise integration (63% enterprise users), Google Workspace embedding, 11.7x growth ([SQ Magazine](https://sqmagazine.co.uk/google-gemini-ai-statistics/), [DemandSage](https://www.demandsage.com/google-gemini-statistics/))
 - **Copilot**: Workplace productivity standard (90%+ Fortune 500), Microsoft ecosystem ([Microsoft](https://www.microsoft.com/en-us/microsoft-365/blog/2025/11/18/microsoft-ignite-2025-copilot-and-agents-built-to-power-the-frontier-firm/))
@@ -55,11 +85,11 @@ This repository contains comprehensive research on how people use AI platforms f
 
 **Key Question**: Who is adopting AI platforms, and how are demographic patterns evolving?
 
-**Key Findings**:
-- **Gender parity achieved**: ChatGPT now 52.4% female (vs male-dominated in Jan 2024) ([OpenAI](https://openai.com/index/how-people-are-using-chatgpt/))
+**Key Findings (December 2025)**:
+- **Gender parity achieved**: ChatGPT now 52.4% female (vs male-dominated in Jan 2024) ([OpenAI](https://openai.com/index/how-people-are-using-chatgpt/)) *Corrected November 1, 2026: about 52% among users with classifiable names, inferred from names, by July 2025.*
 - **Youth adoption**: 64% of U.S. teens use AI chatbots, 28% daily ([Pew Research](https://www.pewresearch.com/internet/2025/12/09/teens-social-media-and-ai-chatbots-2025/))
-- **Age concentration**: 53.24% of ChatGPT users are 18-34 years old ([DemandSage](https://www.demandsage.com/chatgpt-statistics/))
-- **Emerging economies leading growth**: India, Brazil, Mexico, South Africa have highest adoption rates ([Modern Diplomacy](https://moderndiplomacy.eu/2025/03/04/why-is-ai-adoption-slower-in-the-global-south-and-how-can-it-leap-forward/))
+- **Age concentration**: 53.24% of ChatGPT users are 18-34 years old ([DemandSage](https://www.demandsage.com/chatgpt-statistics/)) *Corrected November 1, 2026: from an aggregator, not a primary source. Do not cite it.*
+- **Emerging economies leading growth**: India, Brazil, Mexico, South Africa have highest adoption rates ([Modern Diplomacy](https://moderndiplomacy.eu/2025/03/04/why-is-ai-adoption-slower-in-the-global-south-and-how-can-it-leap-forward/)) *Corrected November 1, 2026: this holds only for the 14-country OECD-Cisco poll. See the update above.*
 - **Racial patterns (U.S. teens)**: Black/Hispanic teens adopt at higher rates than white teens ([Pew Research](https://www.pewresearch.com/internet/2025/12/09/teens-social-media-and-ai-chatbots-2025/))
 
 **Significance**: Faster demographic broadening than previous tech waves, unexpected patterns
@@ -70,11 +100,11 @@ This repository contains comprehensive research on how people use AI platforms f
 
 **Key Question**: How is AI adoption distributed globally, and is AI widening or narrowing inequality gaps?
 
-**Key Findings**:
+**Key Findings (December 2025)**:
 - **The Paradox**: Growth fastest in poor countries (4x), but absolute usage highest in rich countries ([OpenAI](https://openai.com/index/how-people-are-using-chatgpt/))
-- **Extreme disparities**: Singapore 4.6x AUI vs Nigeria 0.20x (23x gap) ([Anthropic](https://www.anthropic.com/research/anthropic-economic-index-september-2025-report))
-- **Adoption gap**: Global North 23% vs Global South 13% ([IMF](https://www.imf.org/en/publications/wp/issues/2025/04/04/ai-adoption-and-inequality-565729))
-- **Economic impact**: Advanced economies projected to benefit >2x that of low-income countries ([IMF](https://www.imf.org/en/publications/wp/issues/2025/04/04/ai-adoption-and-inequality-565729))
+- **Extreme disparities**: Singapore 4.6x AUI vs Nigeria 0.20x (23x gap) ([Anthropic](https://www.anthropic.com/research/anthropic-economic-index-september-2025-report)) *Corrected November 1, 2026: this compares Claude.ai usage per working-age person, not AI use in general.*
+- **Adoption gap**: Global North 23% vs Global South 13% (corrected source: [Microsoft, May 7, 2026](https://www.microsoft.com/en-us/research/wp-content/uploads/2026/05/Microsoft-AI-Diffusion-Report-2026-Q1.pdf), H1 2025 data)
+- **Economic impact**: Growth impact in advanced economies "could be more than double" that in low-income countries (corrected source: [IMF WP 2025/076, Apr 11, 2025](https://www.imf.org/en/publications/wp/issues/2025/04/11/the-global-impact-of-ai-mind-the-gap-566129))
 - **Infrastructure barriers**: 25% of Asia-Pacific offline, gendered device gaps ([OECD-Cisco](https://www.prnewswire.com/news-releases/oecd-cisco-research-finds-stark-geographical-and-generational-divides-in-ai-uptake-and-digital-well-being-302632418.html))
 
 **Significance**: AI may widen global inequality despite rapid emerging market growth
@@ -85,12 +115,12 @@ This repository contains comprehensive research on how people use AI platforms f
 
 **Key Question**: How do enterprise and consumer AI usage differ in patterns, pricing, and privacy requirements?
 
-**Key Findings**:
+**Key Findings (December 2025)**:
 - **Privacy Divide**: Consumer TOS (data as product) vs Enterprise DPAs (privacy as product) ([Medium](https://medium.com/@michael_79773/the-great-ai-privacy-divide-one-year-later-two-worlds-apart-e74ce6187f1f))
-- **Adoption**: Gemini 63% enterprise ([SQ Magazine](https://sqmagazine.co.uk/google-gemini-ai-statistics/)), 72% of companies use AI ([Menlo Ventures](https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterprise/)), 90%+ Fortune 500 on Copilot ([Microsoft](https://www.microsoft.com/en-us/microsoft-365/blog/2025/11/18/microsoft-ignite-2025-copilot-and-agents-built-to-power-the-frontier-firm/))
-- **Industry leaders**: IT & telecom (38%), retail (31%), financial services (24%) ([Menlo Ventures](https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterprise/))
+- **Adoption**: Gemini 63% enterprise ([SQ Magazine](https://sqmagazine.co.uk/google-gemini-ai-statistics/)), 72% of companies use AI ([Menlo Ventures](https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterprise/)), 90%+ Fortune 500 on Copilot ([Microsoft](https://www.microsoft.com/en-us/microsoft-365/blog/2025/11/18/microsoft-ignite-2025-copilot-and-agents-built-to-power-the-frontier-firm/)) *Corrected November 1, 2026: the Gemini share came from an aggregator, the linked Menlo page does not contain the 72%, and the 90% counts organisations with any use. Do not cite them as adoption rates.*
+- **Industry leaders**: IT & telecom (38%), retail (31%), financial services (24%) ([Menlo Ventures](https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterprise/)) *Corrected November 1, 2026: the linked Menlo page does not contain these figures. See the [Census Bureau](https://www.census.gov/library/stories/2026/05/ai-use-businesses.html) for sector rates.*
 - **Pricing strategies**: Gemini bundling vs premium standalone subscriptions ([IntuitionLabs](https://intuitionlabs.ai/articles/ai-api-pricing-comparison-grok-gemini-openai-claude))
-- **Consumer shift**: ChatGPT 73% personal tasks, becoming advisor vs work tool ([OpenAI](https://openai.com/index/how-people-are-using-chatgpt/))
+- **Consumer shift**: ChatGPT 73% personal tasks, becoming advisor vs work tool ([OpenAI](https://openai.com/index/how-people-are-using-chatgpt/)) *Corrected November 1, 2026: the 73% is the non-work share in June 2025.*
 
 **Significance**: Market bifurcating into parallel universes with different architectures
 
@@ -100,12 +130,12 @@ This repository contains comprehensive research on how people use AI platforms f
 
 **Key Question**: How are AI use cases evolving, and what does this reveal about user learning and platform maturation?
 
-**Key Findings**:
+**Key Findings (December 2025)**:
 - **Technical decline**: ChatGPT technical help 12% → 5% (58% drop, July 2024-2025) ([OpenAI](https://openai.com/index/how-people-are-using-chatgpt/))
-- **Work → Personal**: ChatGPT non-work 53% → 72% (mid-2024 → mid-2025) ([OpenAI](https://openai.com/index/how-people-are-using-chatgpt/))
+- **Work → Personal**: ChatGPT non-work 53% → 72% (mid-2024 → mid-2025) ([OpenAI](https://openai.com/index/how-people-are-using-chatgpt/)) *Corrected November 1, 2026: the paper gives 73% for June 2025.*
 - **Education growth**: Claude educational tasks 9% → 12% (early → August 2025) ([Anthropic](https://www.anthropic.com/research/anthropic-economic-index-september-2025-report))
 - **Broadening**: Copilot fewer programming conversations, more culture/history ([Microsoft](https://microsoft.ai/news/its-about-time-the-copilot-usage-report-2025/))
-- **Automation rising**: Claude automation 27% → 39% (late 2024 → Aug 2025) ([Anthropic](https://www.anthropic.com/research/anthropic-economic-index-september-2025-report))
+- **Automation rising**: Claude automation 27% → 39% (late 2024 → Aug 2025) ([Anthropic](https://www.anthropic.com/research/anthropic-economic-index-september-2025-report)) *Corrected November 1, 2026: the directive share fell to 32% by November 2025. See the update above.*
 
 **Significance**: Platforms maturing from technical early-adopter tools to mainstream applications
 
@@ -163,7 +193,9 @@ XX-research-question-name/
 
 ---
 
-## Key Statistics Summary
+## Key Statistics Summary (December 2025, kept as history)
+
+*Corrected November 1, 2026: this table is out of date. Alphabet stated over 450 million monthly Gemini users for Q2 2025 ([Alphabet, Jul 23, 2025](https://blog.google/inside-google/message-ceo/alphabet-earnings-q2-2025/)), so the 82M figure and the note under the table are wrong. The market shares, the 300M Claude figure and the 63% Gemini enterprise share came from aggregators and could not be traced to a primary source. Do not cite them.*
 
 | Platform | MAU/WAU | Market Share (US) | Primary Use | Enterprise Focus |
 |----------|---------|-------------------|-------------|------------------|
@@ -174,14 +206,14 @@ XX-research-question-name/
 
 *Note: Some aggregator sources claim 450-650M MAU, but verified growth data shows 7M (Q4 2023) → 82M (Q2 2025), suggesting the higher figures may be inflated or using different metrics.
 
-### Demographics Snapshot
+### Demographics Snapshot (December 2025)
 - **Gender**: ChatGPT 52.4% female (parity achieved) ([OpenAI](https://openai.com/index/how-people-are-using-chatgpt/))
 - **Age**: 53.24% aged 18-34 (ChatGPT) ([DemandSage](https://www.demandsage.com/chatgpt-statistics/))
 - **Teens**: 64% use AI chatbots, 28% daily (U.S.) ([Pew Research](https://www.pewresearch.com/internet/2025/12/09/teens-social-media-and-ai-chatbots-2025/))
 - **Geographic**: Singapore 4.6x AUI vs Nigeria 0.20x ([Anthropic](https://www.anthropic.com/research/anthropic-economic-index-september-2025-report))
 - **Enterprise**: 72% of companies use AI in at least one area ([Menlo Ventures](https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterprise/))
 
-### Use Case Trends
+### Use Case Trends (December 2025)
 - **Coding**: Claude 36% of conversations ([Anthropic](https://www.anthropic.com/research/anthropic-economic-index-september-2025-report)), ChatGPT declining (12% → 5% technical help) ([OpenAI](https://openai.com/index/how-people-are-using-chatgpt/))
 - **Personal advice**: ChatGPT 49% "Asking" messages, 73% non-work usage ([OpenAI](https://openai.com/index/how-people-are-using-chatgpt/))
 - **Automation**: Claude 77% of business API, up from 27% to 39% overall ([Anthropic](https://www.anthropic.com/research/anthropic-economic-index-september-2025-report))
@@ -189,7 +221,7 @@ XX-research-question-name/
 
 ---
 
-## Overarching Themes
+## Overarching Themes (December 2025)
 
 ### Theme 1: The Great Divergence
 Two parallel AI revolutions:
@@ -225,7 +257,7 @@ Two parallel AI revolutions:
 
 ---
 
-## Data Gaps & Research Needs
+## Data Gaps & Research Needs (December 2025)
 
 ### Missing Data
 1. **Cross-platform usage**: What % of users multi-home?
@@ -282,7 +314,7 @@ Two parallel AI revolutions:
 
 ## Sources Overview
 
-**Total Sources**: 50+ primary and secondary sources
+**Total Sources**: 50+ primary and secondary sources from December 2025, plus 65 primary sources added in November 2026
 
 **Categories**:
 - Primary research reports: 6 major studies
@@ -295,7 +327,7 @@ Two parallel AI revolutions:
 
 ---
 
-## Timeline of Key Research Publications (2025)
+## Timeline of Key Research Publications (2025-2026)
 
 - **April 2025**: Anthropic Education Report (students), Microsoft New Employee Study
 - **June 2025**: Pew Research (ChatGPT use doubled since 2023)
@@ -304,15 +336,23 @@ Two parallel AI revolutions:
 - **October 2025**: Gemini Enterprise launch
 - **November 2025**: Microsoft Ignite 2025
 - **December 2025**: Microsoft Copilot Conversation Analysis, Pew Research Teen Study
+- **January 2026**: Anthropic Economic Index (January report)
+- **March 2026**: Anthropic Economic Index (March report)
+- **May 2026**: Microsoft Work Trend Index, Microsoft AI Diffusion Report Q1
+- **June 2026**: Pew Research adult chatbot survey, Anthropic Economic Index (June report)
+- **July 2026**: Google ATLAS study
+- **August 2026**: OpenAI Signals country and enterprise releases
+- **September 2026**: Microsoft AI Diffusion Report Q2
+- **October 2026**: OpenAI Signals work-activity release
 
-**Observation**: Frontier labs coordinated major transparency releases in September 2025
+**Observation (December 2025)**: Frontier labs coordinated major transparency releases in September 2025
 
 ---
 
 ## About This Research
 
 **Compiled**: December 2025
-**Last Updated**: 2025-12-10
+**Last Updated**: 2026-11-01
 **Research Purpose**: Academic paper/analysis on AI platform usage patterns
 **Methodology**: Synthesis of published research, statistical sources, and news analysis
 
@@ -333,12 +373,12 @@ For questions about specific findings or sources, refer to the individual resear
 When citing this research compilation:
 
 ```
-AI Platform Usage Research: Frontier Labs Analysis (2025)
+AI Platform Usage Research: Frontier Labs Analysis (2025-2026)
 Research Questions: Automation vs Augmentation, Platform Specialization,
 Demographics & Adoption, Global Inequality, Enterprise vs Consumer, Use Case Evolution
 Data Sources: Anthropic Economic Index, OpenAI ChatGPT Usage Study,
 Microsoft Copilot Analysis, Pew Research, and 50+ additional sources
-Compiled: December 2025
+Compiled: December 2025. Updated: November 2026
 ```
 
 For specific findings, cite the original source (URLs provided in sources.md files).

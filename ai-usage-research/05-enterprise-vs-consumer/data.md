@@ -4,6 +4,30 @@
 
 # Enterprise vs Consumer Usage: Detailed Data
 
+## November 2026 evidence
+
+*Updated November 1, 2026. The November 2026 section is current. Everything after it is the December 2025 compilation, kept as dated history. Superlatives and words like "latest", "leading" or "now" in that older text describe December 2025.*
+
+- Ramp's AI Index reported that 55.9% of businesses on Ramp paid for AI in September 2026, with Anthropic at 43.8% and OpenAI at 40.6%. ([Ramp, Oct 14, 2026](https://ramp.com/data/ai-index-oct-2026))
+- OpenAI said on 2026-08-31 that ChatGPT Ads reached $1 billion in annualized revenue run rate in under 200 days, and that the ads system may use context from a user's broader ChatGPT experience depending on country and settings. ([OpenAI, Aug 31, 2026](https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/)) *Method: Vendor-reported.*
+- McKinsey's August 2026 survey (1,719 participants, fielded May 4 to June 8, 2026) says nearly nine in ten respondents report regular AI use in at least one business function, and 44 percent say AI is scaling across their enterprise, up from 38 percent a year earlier. ([McKinsey, Aug 25, 2026](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai)) *Method: Online survey, 1,719 participants in 97 nations, self-reported by respondents, not a census of firms.*
+- Anthropic said run-rate revenue crossed $47 billion in May 2026, up from approximately $9 billion at the end of 2025 as stated in its 2026-04-06 post. ([Anthropic, May 28, 2026](https://www.anthropic.com/news/series-h))
+- The US Census Bureau's BTOS found AI use by US businesses hovered between 17% and 20% from 2025-12-14 to 2026-05-03 (19.8% in the latest period), after the question was reworded in November 2025 to ask about use in any business function. ([U.S. Census Bureau, May 26, 2026](https://www.census.gov/library/stories/2026/05/ai-use-businesses.html)) *Method: Government survey of businesses (BTOS) asking about AI use in the past two weeks, page says 37% of firms with at least 250 employees used AI and Information sector was 39.7%.*
+- Microsoft's 2026 Work Trend Index says 49% of conversations in an analysis of more than 100,000 Microsoft 365 Copilot chats support cognitive work such as analysis, problem solving and evaluation. ([Microsoft, May 5, 2026](https://www.microsoft.com/en-us/worklab/work-trend-index/agents-human-agency-and-the-opportunity-for-every-organization)) *Method: Vendor-reported telemetry: '105,000 samples from 1 week of February 2026 data', commercial segments excluding EDU, North American countries only, O-NET activity mapping.*
+- Anthropic said the number of business customers each spending over $1 million annualised exceeded 1,000 on 2026-04-06, up from over 500 at the 2026-02-12 Series G. ([Anthropic, Apr 6, 2026](https://www.anthropic.com/news/google-broadcom-partnership-compute)) *Method: Company-reported.*
+- A Census working paper (April 2026) found that in November 2025 to January 2026, 18% of firms used AI in a business function, rising to 32% on an employment-weighted basis. ([U.S. Census Bureau, Apr 2026](https://www.census.gov/library/working-papers/2026/adrm/CES-WP-26-25.html)) *Method: BTOS supplement reference period Nov 2025 to Jan 2026.*
+- OpenAI stated on 2026-03-31 that enterprise makes up more than 40% of its revenue and is on track to reach parity with consumer by the end of 2026. ([OpenAI, Mar 31, 2026](https://openai.com/index/accelerating-the-next-phase-ai/)) *Method: Vendor-reported, forward-looking on parity.*
+- Alphabet said on 2026-02-04 it had sold more than eight million paid seats of Gemini Enterprise in the four months since launch. ([Google, Feb 4, 2026](https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q4-2025/)) *Method: Company-reported 'sold' seats (not active users).*
+- Anthropic announced on 2026-02-04 that Claude will remain ad-free, in contrast to OpenAI's ad-supported free tier. ([Anthropic, Feb 4, 2026](https://www.anthropic.com/news/claude-is-a-space-to-think)) *Method: Company policy statement, a commitment, not a measurement.*
+- OpenAI said on 2026-01-16 that it would test ads in the US for Free and Go tiers while Plus, Pro, Business and Enterprise subscriptions would not include ads, and that conversations stay private from advertisers. ([OpenAI, Jan 16, 2026](https://openai.com/index/our-approach-to-advertising-and-expanding-access/)) *Method: Vendor policy statement.*
+- Menlo Ventures estimated in December 2025 that Anthropic holds 40% of enterprise LLM API market share against 27% for OpenAI. ([Menlo Ventures, Dec 9, 2025](https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterprise/)) *Method: Survey of 495 U.S. enterprise AI decision-makers, Nov 7-25 2025, 'LLM market shares represent estimated dollars spent based on proportion of production API usage'.*
+- OpenAI's December 2025 enterprise report says weekly messages in ChatGPT Enterprise rose roughly 8x over the prior year and the average worker sends 30% more messages. ([OpenAI, Dec 8, 2025](https://openai.com/index/the-state-of-enterprise-ai-2025-report/)) *Method: Vendor-reported from OpenAI enterprise-customer telemetry plus 'an OpenAI survey of 9,000 workers across almost 100 enterprises', worker-reported time savings (40-60 minutes per day) are self-reports from OpenAI customers, not independent.*
+- Anthropic's consumer terms update (published 2025-08-28) lets Free, Pro and Max users choose whether chats train models, with five-year retention if they allow it, and excludes commercial products. ([Anthropic, Aug 28, 2025](https://www.anthropic.com/news/updates-to-our-consumer-terms)) *Method: Primary policy page.*
+
+2 corrections to the December 2025 text on this page are marked in place below, labelled "Corrected November 1, 2026".
+
+---
+
 ## User Base Composition by Platform
 
 ### Gemini (Google)
@@ -222,8 +246,8 @@
 
 ### ChatGPT Work vs Personal Shift
 - Mid-2024: 53% non-work prompts
-- Mid-2025: 72% non-work prompts
-- **47% → 28% decline in work usage**
+- Mid-2025: 72% non-work prompts *Corrected November 1, 2026: The paper's table gives 73% non-work and 27% work for June 2025, with work down from 47% ([OpenAI paper, Sep 2025](https://cdn.openai.com/pdf/a253471f-8260-40c6-a2cc-aa93fe9f142e/economic-research-chatgpt-usage-paper.pdf)).*
+- **47% → 28% decline in work usage** *Corrected November 1, 2026: the paper gives 27% for June 2025 ([OpenAI paper](https://cdn.openai.com/pdf/a253471f-8260-40c6-a2cc-aa93fe9f142e/economic-research-chatgpt-usage-paper.pdf)).*
 
 **Interpretation**:
 - Consumer ChatGPT users increasingly using it for personal life
@@ -386,3 +410,5 @@
 | **Integration** | Standalone apps | Deep ecosystem embedding |
 | **Switching Costs** | Low | High |
 | **Market Dynamics** | Winner-take-most | Relationship-driven |
+
+*Corrected November 1, 2026: The 'Leading Platform' row mixes a traffic share with a count of organisations that report any Copilot use. The 90% is vendor-reported and says nothing about the share of employees.*

@@ -4,6 +4,27 @@
 
 # Educational Implications: Detailed Data
 
+## November 2026 evidence
+
+*Updated November 1, 2026. The November 2026 section is current. Everything after it is the December 2025 compilation, kept as dated history. Superlatives and words like "latest", "leading" or "now" in that older text describe December 2025.*
+
+- A randomized trial of a course-integrated generative AI tutor with 2,379 undergraduates and 30 instructors found no significant adverse effect on grades in the full sample. Among sections of the same course, tutor access reduced final grades by 0.37 standard deviations and learning management system participation by 0.90 standard deviations. ([IZA Institute of Labor Economics, Oct 2026](https://docs.iza.org/dp18989.pdf)) *Method: Working paper, not peer reviewed (IZA DP No. 18989, October 2026, also an EdWorkingPaper).*
+- Epoch AI tested three AI text detectors on 495 human passages and 297 style-imitating AI passages per condition: Pangram and GPTZero flagged no human writing as AI, Originality.ai flagged 19 of 495 (3.8%), and style-imitating AI evaded detection 10% to 18% of the time. ([Epoch AI, Jul 15, 2026](https://epoch.ai/data-insights/ai-detectors-false-negatives)) *Method: Independent test, detector versions pinned to June 2026.*
+- In a proctored in-person randomized experiment with 211 undergraduates, students allowed generative AI scored 7.2 percentage points higher on an immediate knowledge test (0.28 SD) and 3.9 points higher one week later without AI (0.21 SD); gains remained for students who used AI as a tutor and faded for those who had AI write for them. ([arXiv, Jul 9, 2026](https://arxiv.org/pdf/2607.08849)) *Method: Preprint, not peer reviewed (arXiv 2607.08849, v1 9 July 2026, v2 4 October 2026).*
+- The Digital Education Council's 2026 survey (45,398 responses, 27,284 students and 18,114 faculty, 35 countries) found 61% of AI-using students say AI frees them to think through ideas, while 19% report retaining less because they rely on AI and 66% worry AI could make learning too shallow. ([Digital Education Council, Jun 23, 2026](https://actualidad.udla.cl/wp-content/uploads/sites/15/2026/06/6a3b9fb2f4e0472d0160d771_Digital-Education-Council-AI-in-Higher-Education-Global-Survey.pdf)) *Method: Self-reported survey. Report read from a copy hosted by a university.*
+- The same Digital Education Council survey found only 29% of students believe their instructors are well equipped to guide them on AI use (17% in the US and Canada), and only 28% say most or many of their assessments reflect the work, skills and judgement they expect to need in an AI-enabled workplace. ([Digital Education Council, Jun 23, 2026](https://actualidad.udla.cl/wp-content/uploads/sites/15/2026/06/6a3b9fb2f4e0472d0160d771_Digital-Education-Council-AI-in-Higher-Education-Global-Survey.pdf)) *Method: Self-reported survey, same sample as the item above. Report read from a copy hosted by a university.*
+- In Gallup's survey for the Walton Family Foundation and GSV (1,572 people aged 14 to 29, 24 February to 4 March 2026), 34% of Gen Z say it is very likely and 46% somewhat likely that using AI tools will make it more difficult for them to learn in the future. ([Gallup, Apr 8, 2026](https://news.gallup.com/poll/708224/gen-adoption-steady-skepticism-climbs.aspx)) *Method: Probability-based Gallup Panel web survey, ages 14 to 29.*
+- The HEPI and Kortext survey of 1,054 full-time UK undergraduates (fieldwork December 2025) found 95% use AI in at least one way and 94% use generative AI to help with assessed work. ([Higher Education Policy Institute (HEPI) and Kortext, Mar 12, 2026](https://www.hepi.ac.uk/reports/student-generative-ai-survey-2026/)) *Method: Online survey by Savanta, December 2025, n=1,054 full-time UK undergraduates, self-reported use.*
+- In the same HEPI survey the share of students directly including AI-generated text in assessed work rose to 12% in 2026, from 8% in 2025 and 3% in 2024, while only 36% feel encouraged by their institution to use AI and 38% say they are provided with AI tools. ([Higher Education Policy Institute (HEPI) and Kortext, Mar 12, 2026](https://www.hepi.ac.uk/reports/student-generative-ai-survey-2026/)) *Method: Third edition of an annual series, each wave is a separate sample (n=1,054 in 2026) so year-on-year comparisons are of samples with possibly different composition.*
+- Pew Research Center's survey of 1,458 US teens (25 September to 9 October 2025) found 54% say they have used chatbots to get help with schoolwork. ([Pew Research Center, Feb 24, 2026](https://www.pewresearch.org/internet/2026/02/24/how-teens-use-and-view-ai/)) *Method: Online survey by Ipsos KnowledgePanel of US teens and parents, fielded Sept. 25 to Oct. 9, 2025.*
+- Anthropic's AI Fluency Index, from 9,830 Claude.ai conversations in a 7-day window in January 2026, found that in conversations that created artifacts (n=1,209) users were less likely to identify missing context (-5.2 points), check facts (-3.7) or question the model's reasoning (-3.1) than in those without artifacts (n=8,621). ([Anthropic, Feb 23, 2026](https://www.anthropic.com/research/AI-fluency-index)) *Method: Vendor-reported observational analysis of Claude.ai users, not a student sample.*
+- Anthropic's randomized trial of 52 mostly junior software engineers learning an unfamiliar Python library found the AI-assisted group scored 50% on a comprehension quiz against 67% for the control group (Cohen's d = 0.738, p = 0.01), with the largest gap on debugging questions. ([Anthropic, Jan 29, 2026](https://www.anthropic.com/research/AI-assistance-coding-skills)) *Method: Vendor-run randomized trial, n=52, one library (Trio), quiz taken minutes after the task.*
+- A randomized experiment with 334 university students preparing for an incentivized exam found AI tutor access raised test performance by 0.23 standard deviations relative to a textbook-only control, and unrestricted access outperformed restricted access by 0.21 standard deviations. ([IZA Institute of Labor Economics, Dec 2025](https://docs.iza.org/dp18338.pdf)) *Method: Working paper IZA DP No. 18338, December 2025.*
+
+1 correction to the December 2025 text on this page is marked in place below, labelled "Corrected November 1, 2026".
+
+---
+
 ## Assessment Vulnerability Analysis
 
 ### Current Assessment Types and AI Vulnerability
@@ -181,7 +202,7 @@ AI Assistance Declaration:
 ### Enforcement Considerations
 
 **Detection Limitations**:
-- AI detection tools unreliable (high false positive/negative rates)
+- AI detection tools unreliable (high false positive/negative rates) *Corrected November 1, 2026: This line cites no study. See Epoch AI's July 2026 detector test in the evidence above, including its limits.*
 - Stylistic analysis limited
 - Paraphrased content difficult to detect
 

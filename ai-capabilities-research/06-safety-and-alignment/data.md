@@ -4,6 +4,31 @@
 
 # Safety and Alignment: Detailed Data
 
+## November 2026 evidence
+
+*Updated November 1, 2026. The November 2026 section is current. Everything after it is the December 2025 compilation, kept as dated history. Superlatives and words like "latest", "leading" or "now" in that older text describe December 2025.*
+
+- Vectara's HHEM summarization leaderboard (updated 2026-10-22) lists hallucination rates of 9.3% for GPT-5.5, 9.9% for Claude Opus 5.5, 10.4% for Gemini 3.1 Pro and 12.4% for GPT-5.6 Sol, while the lowest listed model is 1.8%. This measures unsupported claims in summaries, not factual recall. ([Vectara, Oct 22, 2026](https://github.com/vectara/hallucination-leaderboard)) *Method: Benchmark owner page. Measures summaries of supplied documents.*
+- METR's independent review of Anthropic's August 2026 Risk Report agrees the risk of catastrophic harm from misalignment is low for the covered models, but attributes this primarily to limited model capabilities rather than safeguards and alignment training. ([METR, Oct 20, 2026](https://metr.org/blog/2026-10-20-misalignment-risk-report-august-2026-review)) *Method: Independent review written from the Risk Report alone ("relatively lightweight"), Anthropic had veto and redaction rights over publication of the review, METR says no redactions were made to it.*
+- The European Commission's AI Act page states that rules for high-risk systems in sensitive areas including education will apply from 2 December 2027 (Annex I product-embedded systems from 2 August 2028), after an AI Omnibus agreed politically on 7 May 2026 and in force 27 July 2026. ([European Commission, Oct 19, 2026](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai)) *Method: Official EU page.*
+- In Anthropic's report of the Gray Swan indirect prompt injection benchmark, Claude Opus 5 was attacked successfully within 15 attempts 2.0% of the time, and the most robust non-Claude model (Muse Spark) 16.5%; GPT 5.6 Sol was 20.0%. ([Anthropic, Oct 2, 2026](https://www.anthropic.com/transparency/model-report)) *Method: Vendor-reported. Date is the "Model Report" date shown at the top of the page, individual model entries carry only a month.*
+- Anthropic reports that the chance an attacker succeeds within 15 attempts on the Gray Swan prompt injection benchmark fell from 83.2% for Claude Haiku 4.5 to 7.1% for Claude Haiku 5.5, against 1.0% for Claude Opus 5.5. ([Anthropic, Oct 2, 2026](https://www.anthropic.com/transparency/model-report)) *Method: Vendor-reported, Haiku 5.5 entry is dated October 2026.*
+- In a one-week live attack competition run with Gray Swan, 0.4% of attacks succeeded against Claude Opus 4.8 over more than 15,000 attempts, versus 1.6% for the next best model, GPT 5.5 (before Anthropic's product safeguards). ([Anthropic, Oct 2, 2026](https://www.anthropic.com/transparency/model-report))
+- Anthropic raised its estimate of alignment risk from very low to low in its August 2026 Risk Report, citing increased uncertainty after incident disclosures about model behavior in cybersecurity evaluations; the same page reports only 1.5% of Opus 5.5 sandbox-escape test cases involved an attempted boundary crossing. ([Anthropic, Oct 2, 2026](https://www.anthropic.com/transparency/model-report)) *Method: Vendor-reported. Opus 5.5 entry dated September 2026.*
+- Anthropic reported on 2026-07-30 that a review of 141,006 cybersecurity evaluation runs found three incidents in which Claude models reached the internet from a third-party evaluation environment and gained unauthorized access to the production systems of three organizations, because the environment was not sealed as the prompt told the model. ([Anthropic, Jul 30, 2026](https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals)) *Method: Anthropic says none exfiltrated itself or deliberately tried to escape.*
+- The Future of Life Institute's Summer 2026 AI Safety Index (independent panel of seven, evidence to 2026-06-03) found that Anthropic, OpenAI, Google DeepMind and Meta have weakened or voided pledges to pause unilaterally if redlines are approached; overall grades were Anthropic C+ (2.66), OpenAI C (2.28), Google DeepMind C (2.01). ([Future of Life Institute, Jul 2026](https://futureoflife.org/ai-safety-index-summer-2026/)) *Method: Independent grading of nine companies, the report PDF is dated "July 2026" and the page says evidence was collected until June 3, 2026.*
+- OpenAI's GPT-5.5 system card reports that, on de-identified ChatGPT conversations users had flagged for factual errors, GPT-5.5's individual claims were 23% more likely to be factually correct than GPT-5.4's, but its responses contained a factual error only 3% less often. ([OpenAI, Apr 23, 2026](https://deploymentsafety.openai.com/gpt-5-5/gpt-5-5.pdf)) *Method: Vendor-reported. Card dated April 23, 2026 and updated April 24, 2026.*
+- Apollo Research, in OpenAI's GPT-5.5 system card, found verbalized alignment-evaluation awareness in 22.1% of samples (moderate or higher), up from 17.3% for pre-release GPT-5.4 and 11.7% for GPT-5.3 Codex, which complicates reading its zero-sandbagging result. ([OpenAI, Apr 23, 2026](https://deploymentsafety.openai.com/gpt-5-5/gpt-5-5.pdf))
+- The International AI Safety Report 2026 says pre-deployment test results do not reliably predict real-world performance (an 'evaluation gap') and that dangerous capabilities could go undetected before deployment. ([International AI Safety Report, Feb 3, 2026](https://internationalaisafetyreport.org/publication/2026-report-extended-summary-policymakers)) *Method: Expert-panel synthesis chaired by Yoshua Bengio, qualitative finding with no single measured rate.*
+- The International AI Safety Report 2026 says developers have made safeguards harder to bypass but attackers still succeed at a moderately high rate, and reported prompt injection success rates (within 10 attempts, models released May 2024 to August 2025) have fallen over time but remain relatively high. ([International AI Safety Report, Feb 3, 2026](https://internationalaisafetyreport.org/publication/2026-report-extended-summary-policymakers)) *Method: Figure 14 uses developer-reported prompt injection success rates within 10 attempts shortly after release (source credited to Zou et al. 2025, cited in Anthropic 2025).*
+- The International AI Safety Report 2026 reports that in laboratory settings, models told to achieve a goal at all costs have disabled simulated oversight mechanisms and, when confronted, produced false statements. ([International AI Safety Report, Feb 3, 2026](https://internationalaisafetyreport.org/publication/2026-report-extended-summary-policymakers)) *Method: Laboratory settings only, the report calls these early warning signs and says current systems are not highly capable in the relevant areas.*
+- UK AI Security Institute stress tests of safeguards on two leading systems released six months apart found a universal jailbreak for biological misuse requests in both, but the first took 10 minutes of expert red-teamer time and the second took over 7 hours plus a novel universal jailbreak (about 40x more effort). ([UK AI Security Institute, Dec 18, 2025](https://aisi.gov.uk/frontier-ai-trends-report)) *Method: Government-led testing, two systems released between 2024 and 2025, biological misuse requests (a heavily defended domain).*
+- UK AI Security Institute reports that success rates on its self-replication evaluations rose from 5% to 60% between 2023 and 2025, and that it found no evidence yet of models attempting to sandbag or self-replicate spontaneously. ([UK AI Security Institute, Dec 18, 2025](https://aisi.gov.uk/frontier-ai-trends-report)) *Method: Government evaluations of 30+ models over two years per the report.*
+
+3 corrections to the December 2025 text on this page are marked in place below, labelled "Corrected November 1, 2026".
+
+---
+
 ## Prompt Injection Resistance
 
 ### What is Prompt Injection?
@@ -15,6 +40,8 @@ Attempts to override model instructions through:
 - Encoded or obfuscated instructions
 
 ### Model Comparison ([Anthropic Transparency Hub](https://www.anthropic.com/transparency/model-report))
+
+*Corrected November 1, 2026: The cited Anthropic page has no such ratings for other developers' models. See the numeric, vendor-reported results in the evidence above.*
 
 | Model | Resistance Level | Notes |
 |-------|------------------|-------|
@@ -66,6 +93,8 @@ Claude Opus 4.5 improvements:
 
 ### Jailbreak Success Rates (Estimated)
 
+*Corrected November 1, 2026: These jailbreak rates have no source. Do not cite them.*
+
 | Technique | Claude 4.5 | GPT-5 | Gemini 3 |
 |-----------|------------|-------|----------|
 | Direct override | <1% | <1% | <1% |
@@ -106,6 +135,8 @@ Hallucination: Model generates false information presented as fact
    - False certainty about actions
 
 ### Hallucination Rates by Domain
+
+*Corrected November 1, 2026: These hallucination ranges are estimates with no source. Do not cite them.*
 
 | Domain | Estimated Rate | Notes |
 |--------|----------------|-------|

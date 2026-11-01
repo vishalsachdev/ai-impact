@@ -4,6 +4,28 @@
 
 # Global Inequality in AI: Detailed Data
 
+## November 2026 evidence
+
+*Updated November 1, 2026. The November 2026 section is current. Everything after it is the December 2025 compilation, kept as dated history. Superlatives and words like "latest", "leading" or "now" in that older text describe December 2025.*
+
+- Microsoft telemetry puts generative AI use at 28.8% of the working-age population in the Global North and 16.2% in the Global South in June 2026 (Q2), a 12.6 point gap, up from 10.6 points in H2 2025. ([Microsoft AI Economy Institute, Sep 21, 2026](https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/Microsoft-AI-Diffusion-Report-2026-Q2.pdf)) *Method: Vendor-reported, aggregated Microsoft telemetry adjusted for OS and device share, internet penetration and population, measure is the share of people aged 15-64 who have used a generative AI product.*
+- Microsoft finds that in its Copilot consumer sample, learning-related conversations are a larger share of use in the Global South: self-directed learning and skill development 29.2% larger than the global share and schoolwork and academic support 32.3% larger. ([Microsoft AI Economy Institute, Sep 21, 2026](https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/Microsoft-AI-Diffusion-Report-2026-Q2.pdf)) *Method: Vendor-reported subset of consumer Copilot conversations, classified by a privacy-preserving intent classifier.*
+- Microsoft's Q2 2026 leaderboard is topped by the UAE (73.3%) and Singapore (64.3%), while the Global South average is 16.2%. ([Microsoft AI Economy Institute, Sep 21, 2026](https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/Microsoft-AI-Diffusion-Report-2026-Q2.pdf)) *Method: Vendor-reported telemetry.*
+- OpenAI reported in June 2026 that lower-HDI countries had the fastest relative growth in weekly active ChatGPT users since July 2023, and in August 2026 that its Q2 2026 per-capita rankings show parts of Latin America, Africa and Oceania catching up. ([OpenAI, Jun 30, 2026](https://openai.com/index/how-chatgpt-adoption-has-expanded/); [OpenAI, Aug 6, 2026](https://openai.com/index/how-the-world-is-putting-chatgpt-to-work/)) *Method: Vendor-reported, individual plans (Free, Go, Plus, Pro), users 18+, relative growth against a July 2023 baseline, so it says nothing about absolute levels.*
+- The Reuters Institute found weekly use of AI chatbots for news rose from 7% to 10% globally, driven largely by growth in parts of Asia, Africa and Latin America, and not at all in the USA, UK, France and Germany. ([Reuters Institute, Jun 16, 2026](https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2026/emerging-uses-ai-chatbots-news-and-what-it-means-journalism)) *Method: Online survey, 48 markets in the report, weekly use of chatbots for news only.*
+- Microsoft's trend table shows the Global North at 22.9% (H1 2025), 24.7% (H2 2025) and 27.5% (Q1 2026), and the Global South at 13.1%, 14.1% and 15.4%, so the gap rose from 9.8 to 12.1 points; Microsoft says the North grew more than twice as fast as the South. ([Microsoft AI Economy Institute, May 7, 2026](https://www.microsoft.com/en-us/research/wp-content/uploads/2026/05/Microsoft-AI-Diffusion-Report-2026-Q1.pdf))
+- Anthropic's March 2026 report (February 2026 Claude.ai data) says the top 20 countries account for 48% of population-adjusted usage, up from 45%, and that low-adoption countries fell slightly further behind. ([Anthropic, Mar 24, 2026](https://www.anthropic.com/research/economic-index-march-2026-report)) *Method: Vendor-reported, Claude.ai consumer conversations sampled in February 2026 compared with November 2025.*
+- Anthropic's India brief (November 2025 data) says India accounts for 5.8% of Claude.ai use, second to the U.S., but ranks 101st of 116 countries per capita. ([Anthropic, Feb 16, 2026](https://www.anthropic.com/research/india-brief-economic-index)) *Method: Vendor-reported, Claude.ai conversations 2025-11-13 to 2025-11-20 (N = 975,160 globally), only countries with at least 200 observations are ranked.*
+- Anthropic's January 2026 report (November 2025 Claude.ai data) says cross-country usage per capita is strongly correlated with GDP and that there was no evidence of low-use countries catching up; a 1% rise in GDP per capita goes with 0.7% higher Claude usage per capita. ([Anthropic, Jan 15, 2026](https://www.anthropic.com/research/anthropic-economic-index-january-2026-report)) *Method: Vendor-reported, sample window 2025-11-13 to 2025-11-20 for Claude.ai.*
+- UNDP's December 2025 Asia-Pacific report says AI diffusion is measured in months and years rather than the decades of earlier technologies, and that a quarter of the region is offline. ([UNDP, Dec 2025](https://www.undp.org/sites/g/files/zskgke326/files/2025-12/undp-rbap-the-next-great-divergence.pdf)) *Method: The PDF itself shows 'December 2025'.*
+- ITU estimates 2.2 billion people were offline in 2025, with 94% internet use in high-income countries versus 23% in low-income countries and 77% of men online versus 71% of women. ([ITU, Nov 17, 2025](https://www.itu.int/en/mediacentre/Pages/PR-2025-11-17-facts-and-figures.aspx)) *Method: ITU estimates for 2025.*
+- The World Bank's World Development Report 2026 says middle-income countries accounted for half of ChatGPT's global traffic within six months of launch, compared with about 80 years for the steam engine to reach lower-income countries. ([World Bank, undated page, read Nov 1, 2026](https://www.worldbank.org/en/publication/wdr2026))
+- Stanford's 2026 AI Index economy chapter says generative AI adoption varies widely across countries and correlates strongly with GDP per capita, citing Singapore at 61%, the UAE at 64% and the U.S. ranked 24th at 28.3%. ([Stanford HAI, undated page, read Nov 1, 2026](https://hai.stanford.edu/ai-index/2026-ai-index-report/economy))
+
+1 correction to the December 2025 text on this page is marked in place below, labelled "Corrected November 1, 2026".
+
+---
+
 ## The Central Paradox
 
 **Growth Rates:**
@@ -124,7 +146,7 @@
 ### Digital Access Gaps
 
 **Asia-Pacific Offline Population:**
-- 25% of population has no internet access
+- 25% of population has no internet access *Corrected November 1, 2026: The Asia-Pacific figure comes from the [UNDP report, Dec 2025](https://www.undp.org/sites/g/files/zskgke326/files/2025-12/undp-rbap-the-next-great-divergence.pdf), not from the OECD-Cisco poll.*
 - No internet = no cloud AI access
 - Absolute barrier to adoption
 

@@ -4,13 +4,31 @@
 
 # Educational Implications
 
+## November 2026 update
+
+*Updated November 1, 2026. The November 2026 section is current. Everything after it is the December 2025 compilation, kept as dated history. Superlatives and words like "latest", "leading" or "now" in that older text describe December 2025.*
+
+- A randomized trial of a course-integrated generative AI tutor with 2,379 undergraduates and 30 instructors found no significant adverse effect on grades in the full sample. Among sections of the same course, tutor access reduced final grades by 0.37 standard deviations and learning management system participation by 0.90 standard deviations. ([IZA Institute of Labor Economics, Oct 2026](https://docs.iza.org/dp18989.pdf))
+- In a proctored in-person randomized experiment with 211 undergraduates, students allowed generative AI scored 7.2 percentage points higher on an immediate knowledge test (0.28 SD) and 3.9 points higher one week later without AI (0.21 SD); gains remained for students who used AI as a tutor and faded for those who had AI write for them. ([arXiv, Jul 9, 2026](https://arxiv.org/pdf/2607.08849))
+- Anthropic's randomized trial of 52 mostly junior software engineers learning an unfamiliar Python library found the AI-assisted group scored 50% on a comprehension quiz against 67% for the control group (Cohen's d = 0.738, p = 0.01), with the largest gap on debugging questions. ([Anthropic, Jan 29, 2026](https://www.anthropic.com/research/AI-assistance-coding-skills))
+- The HEPI and Kortext survey of 1,054 full-time UK undergraduates (fieldwork December 2025) found 95% use AI in at least one way and 94% use generative AI to help with assessed work. ([Higher Education Policy Institute (HEPI) and Kortext, Mar 12, 2026](https://www.hepi.ac.uk/reports/student-generative-ai-survey-2026/))
+- In the same HEPI survey the share of students directly including AI-generated text in assessed work rose to 12% in 2026, from 8% in 2025 and 3% in 2024, while only 36% feel encouraged by their institution to use AI and 38% say they are provided with AI tools. ([Higher Education Policy Institute (HEPI) and Kortext, Mar 12, 2026](https://www.hepi.ac.uk/reports/student-generative-ai-survey-2026/))
+- The Digital Education Council's 2026 survey (45,398 responses, 27,284 students and 18,114 faculty, 35 countries) found 61% of AI-using students say AI frees them to think through ideas, while 19% report retaining less because they rely on AI and 66% worry AI could make learning too shallow. ([Digital Education Council, Jun 23, 2026](https://actualidad.udla.cl/wp-content/uploads/sites/15/2026/06/6a3b9fb2f4e0472d0160d771_Digital-Education-Council-AI-in-Higher-Education-Global-Survey.pdf))
+- Epoch AI tested three AI text detectors on 495 human passages and 297 style-imitating AI passages per condition: Pangram and GPTZero flagged no human writing as AI, Originality.ai flagged 19 of 495 (3.8%), and style-imitating AI evaded detection 10% to 18% of the time. ([Epoch AI, Jul 15, 2026](https://epoch.ai/data-insights/ai-detectors-false-negatives))
+
+Vendor-reported numbers come from the company named and were not independently checked unless stated. All 12 new findings, with methods, are in **[the November 2026 evidence](./data.md#november-2026-evidence)**.
+
+1 correction to the December 2025 text on this page is marked in place below, labelled "Corrected November 1, 2026".
+
+---
+
 ## Research Question
 
 **What should universities do in response to these capabilities?**
 
 ## Scope
 
-This section provides **prescriptive recommendations** for university stakeholders based on the capability data from RQ01-RQ06. It is intended for administrators, faculty, curriculum designers, and policy makers.
+This section provides **prescriptive recommendations** for university stakeholders based on the capability data from RQ01-RQ06. It is intended for administrators, faculty, curriculum designers, and policy makers. *Corrected November 1, 2026: These recommendations were not tied to measured learning outcomes. The update above adds randomized evidence, including a negative result.*
 
 ---
 
